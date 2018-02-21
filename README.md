@@ -5,6 +5,8 @@ http://memory-alpha.wikia.com/wiki/Star_Trek:_Attack_Wing
 2018-01
 
 # Starter sets
+<details><summary>Expand</summary>
+
 ## Starter Set
 - [x] IKS Maht-H'a – Vor'cha-class
 - [x] IRW Khazara – D'deridex-class
@@ -16,7 +18,10 @@ http://memory-alpha.wikia.com/wiki/Star_Trek:_Attack_Wing
 - [ ] USS Enterprise-D – Galaxy-class
 - [ ] USS Sutherland – Nebula-class
 
+</details>
+
 # Expansion packs
+<details><summary>Expand</summary>
 
 ## Bajoran
 - [x] Denorios – Lightship
@@ -142,7 +147,13 @@ http://memory-alpha.wikia.com/wiki/Star_Trek:_Attack_Wing
 - [ ] Orassin – Xindi-Insectoid starship
 - [ ] Weapon Zero – Sphere weapon
 
+</details>
+
+
 # Faction packs
+<details><summary>Expand</summary>
+
+
 ## Dominion – December 2017
 - [ ] 2nd Division Battleship – Dominion battleship
 - [ ] 2nd Wing Patrol Ship – Jem'Hadar fighter
@@ -179,7 +190,11 @@ http://memory-alpha.wikia.com/wiki/Star_Trek:_Attack_Wing
 - [ ] TBA – Scout ship
 - [ ] TBA – Sphere
 
+</details>
+
 # Card packs
+<details><summary>Expand</summary>
+
 ## September 2017 – Wave 1
 - [x] Cardassian ATR-4107 – Dreadnought
 - [x] Oberth-class – USS Grissom
@@ -198,7 +213,12 @@ http://memory-alpha.wikia.com/wiki/Star_Trek:_Attack_Wing
 - [ ] Federation Attack Fighter Squadron
 - [ ] Hirogen warship
 
+</details>
+
 # Storyline Organized Play Events
+
+<details><summary>Expand</summary>
+
 # The Dominion War 
 
 ## October 2013 – Operation Return
@@ -340,7 +360,6 @@ http://memory-alpha.wikia.com/wiki/Star_Trek:_Attack_Wing
 ## Grand Prize
 - [ ] USS Enterprise-A – Constitution-class refit
 
-
 # Klingon Civil War
 
 ## September 2016 – Attack On Gowron
@@ -358,7 +377,12 @@ http://memory-alpha.wikia.com/wiki/Star_Trek:_Attack_Wing
 ## Grand Prize
 - [ ] Sela's Warbird – D'deridex-class × 2
 
+</details>
+
 # Episode Organized Play Events
+
+<details><summary>Expand</summary>
+
 
 ## April 2014 – The Tholian Web
 - [ ] Tholia One (β) – Tholian ship* × 3
@@ -427,7 +451,11 @@ http://memory-alpha.wikia.com/wiki/Star_Trek:_Attack_Wing
 - [ ] Delta Flyer II – Delta Flyer-type card pack* × 3
 - [ ] Co-Pilot Resource and Reference cards† × 10
 
+</details>
+
 # Monthly Organized Play Events
+
+<details><summary>Expand</summary>
 
 ## August 2017 – Chronological Chaos
 - [ ] Data Upgrade Crew cards* × 3
@@ -457,3 +485,5 @@ http://memory-alpha.wikia.com/wiki/Star_Trek:_Attack_Wing
 
 ## October 2018 – 2018 OP Kit 4
 - [ ] TBA
+
+</details>
