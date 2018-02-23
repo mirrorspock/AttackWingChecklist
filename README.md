@@ -166,12 +166,12 @@ http://memory-alpha.wikia.com/wiki/Star_Trek:_Attack_Wing
 
 ## Independent Ferengi – February 2018
 - [ ] TBA – B'rel-class (Ferengi commandeered)
-- [ ] TBA – D'kora-class × 2
+- [ ] TBA – D'kora-class
 - [ ] TBA – Ferengi shuttle
 
 ## Mirror Universe Kelvin Timeline – April 2018
-- [ ] TBA – Constitution class (alternate reality) × 2
-- [ ] TBA – Klingon warbird × 2
+- [ ] TBA – Constitution class (alternate reality)
+- [ ] TBA – Klingon warbird
 
 ## Independent Motley Fleet – June 2018
 - [ ] TBA – Andorian battle cruiser
@@ -277,7 +277,7 @@ http://memory-alpha.wikia.com/wiki/Star_Trek:_Attack_Wing
 - [x] USS Yeager – Saber-class
 
 ## Grand Prize
-- [x] Assimilation Target Prime – Partially-assimilated USS Enterprise-D × 2
+- [x] Assimilation Target Prime – Partially-assimilated USS Enterprise-D
 
 # Resistance Is Futile
 
@@ -301,14 +301,14 @@ http://memory-alpha.wikia.com/wiki/Star_Trek:_Attack_Wing
 - [ ] Tal'Kir – D'kyr-type
 
 ## Grand Prize
-- [x] Tactical Cube 001 – Borg tactical cube × 2
+- [x] Tactical Cube 001 – Borg tactical cube
 
 # The Q-Continuum
 
 ## April 2015 – Encounter at Farpoint
 - [x] USS Hood – Excelsior-class
 - [x] Evasive Action template with Reference cards
-- [x] Map element sets – Q-Continuum cards × 20
+- [x] Map element sets – Q-Continuum cards
 
 ## May 2015 – Deja Q
 - [x] IKS Korinar – B'rel-class
@@ -319,7 +319,7 @@ http://memory-alpha.wikia.com/wiki/Star_Trek:_Attack_Wing
 - [x] Ready Room cards
 
 ## Grand Prize
-- [x] Q-Continuum card pack × 2
+- [x] Q-Continuum card pack
 
 # Temporal Cold War
 
@@ -348,7 +348,7 @@ http://memory-alpha.wikia.com/wiki/Star_Trek:_Attack_Wing
 - [x] Main Power Grid cards
 
 ## Grand Prize
-- [ ] Temporal Cold War card pack × 2
+- [ ] Temporal Cold War card pack
 
 # The Classic Movies
 
@@ -382,7 +382,7 @@ http://memory-alpha.wikia.com/wiki/Star_Trek:_Attack_Wing
 - [x] All Stop cards
 
 ## Grand Prize
-- [x] Sela's Warbird – D'deridex-class × 2
+- [x] Sela's Warbird – D'deridex-class
 
 </details>
 
