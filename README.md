@@ -292,6 +292,7 @@ http://memory-alpha.wikia.com/wiki/Star_Trek:_Attack_Wing
 ## December 2014 – Endgame
 - [x] Assimilated Vessel 64758 – Assimilated Galor-class
 - [x] High Yield Photon Torpedoes cards with Reference cards
+- [x] Map element (transwarp hub)
 
 ## Randomized Expansion Ships
 - [x] Bok's Marauder – D'Kora-class
@@ -427,7 +428,7 @@ http://memory-alpha.wikia.com/wiki/Star_Trek:_Attack_Wing
 
 ## January 2016 – The Void
 - [ ] IRW T'Met – D'deridex-class card pack
-- [ ] Resource and Reference cards
+- [ ] Tactics Resource and Reference cards
 
 ## February 2016 – The Doomsday Machine
 - [x] USS Constellation – Constitution-class card pack
