@@ -48,31 +48,30 @@ http://memory-alpha.wikia.com/wiki/Star_Trek:_Attack_Wing
 - [ ] Koranak – Cardassian Keldon-class
 - [ ] Kraxon – Cardassian Galor-class
 - [ ] Reklar – Cardassian Galor-class
-- [ ] Robinson (β) – Jem'Hadar fighter
+- [x] Robinson (β) – Jem'Hadar fighter
 
 ## Federation
 - [x] Deep Space 9 – Nor-class station
-- [ ] Delta Flyer – Delta Flyer-type
-- [ ] Einstein – Type 7 shuttlecraft*
-- [ ] Enterprise NX-01 – NX-class
-- [ ] Fighter Squadron 6 – Attack Fighter Squadron
-- [ ] USS Defiant – Defiant-class
-- [ ] USS Enterprise – Constitution-class
-- [ ] USS Enterprise – Constitution-class refit
+- [x] Delta Flyer – Delta Flyer-type
+- [x] Enterprise NX-01 – NX-class
+- [x] Fighter Squadron 6 – Attack Fighter Squadron
+- [x] USS Defiant – Defiant-class
+- [x] USS Enterprise – Constitution-class
+- [x] USS Enterprise – Constitution-class refit
 - [ ] USS Enterprise-B – Excelsior-class
-- [ ] USS Enterprise-E – Sovereign-class
-- [ ] USS Equinox – Nova-class
-- [ ] USS Excelsior – Excelsior-class
-- [ ] USS Hathaway – Constellation-class
+- [x] USS Enterprise-E – Sovereign-class
+- [x] USS Equinox – Nova-class
+- [x] USS Excelsior – Excelsior-class
+- [x] USS Hathaway – Constellation-class
 - [ ] USS Montgolfier (β) – Saber-class
-- [ ] USS Pegasus – Oberth-class
+- [x] USS Pegasus – Oberth-class
 - [ ] USS Phoenix – Nebula-class
-- [ ] USS Prometheus – Prometheus-class
-- [ ] USS Reliant – Miranda-class
-- [ ] USS Thunderchild – Akira-class
+- [x] USS Prometheus – Prometheus-class
+- [x] USS Reliant – Miranda-class
+- [x] USS Thunderchild – Akira-class
 - [ ] USS Valiant – Defiant-class
-- [ ] USS Venture – Galaxy-class
-- [ ] USS Voyager – Intrepid-class
+- [x] USS Venture – Galaxy-class
+- [x] USS Voyager – Intrepid-class
 - [ ] USS Yosemite – Oberth-class*
 
 ## Ferengi
@@ -95,18 +94,18 @@ http://memory-alpha.wikia.com/wiki/Star_Trek:_Attack_Wing
 - [ ] Ogla-Razik – Predator-class
 
 ## Klingon
-- [ ] Chang's Bird-of-Prey – prototype Bird-of-Prey
+- [x] Chang's Bird-of-Prey – prototype Bird-of-Prey
 - [ ] IKS Amar – K't'inga-class
 - [ ] IKS Drovana – Vor'cha-class
-- [ ] IKS Gr'oth – D7-class
+- [x] IKS Gr'oth – D7-class
 - [ ] IKS Klothos – D7-class*
-- [ ] IKS Koraga – K'vort-class
+- [x] IKS Koraga – K'vort-class
 - [ ] IKS Kronos One – K't'inga-class
-- [ ] IKS Negh'Var – Negh'Var-class
+- [x] IKS Negh'Var – Negh'Var-class
 - [ ] IKS Ning'tao – B'rel-class
 - [ ] IKS Rotarran – B'rel-class
-- [ ] IKS Somraw – Raptor-class
-- [ ] IKS T'Ong – K't'inga-class
+- [x] IKS Somraw – Raptor-class
+- [x] IKS T'Ong – K't'inga-class
 
 ## Mirror Universe
 - [ ] ISS Avenger – NX-class
@@ -116,30 +115,30 @@ http://memory-alpha.wikia.com/wiki/Star_Trek:_Attack_Wing
 - [ ] USS Pasteur – Olympic-class
 
 ## Romulan
-- [ ] Gal Gath'thong (β) – Bird-of-Prey (23rd century)
+- [x] Gal Gath'thong (β) – Bird-of-Prey (23rd century)
 - [ ] IRW Algeron – D7-class
 - [ ] IRW Devoras – D'deridex-class*
-- [ ] IRW Haakona – D'deridex-class
+- [x] IRW Haakona – D'deridex-class
 - [ ] IRW Jazkal – Bird-of-Prey (22nd century)
 - [ ] IRW Jolan Tru – Valdore-type*
-- [ ] IRW Praetus – Bird-of-Prey (22nd century)
-- [ ] IRW Valdore – Valdore-type
+- [x] IRW Praetus – Bird-of-Prey (22nd century)
+- [x] IRW Valdore – Valdore-type
 - [ ] IRW Vrax – Valdore-type
-- [ ] Prototype 01 – Drone-ship
-- [ ] RIS Apnex (β) – Science vessel
+- [x] Prototype 01 – Drone-ship
+- [x] RIS Apnex (β) – Science vessel
 - [ ] RIS Pi – Scout ship
 - [ ] RIS Talvath – Science vessel
-- [ ] RIS Vo (β) – Scout ship
-- [ ] Scimitar – Reman warbird
-- [ ] Scorpion 4 – Scorpion-class Attack Fighter Squadron
+- [x] RIS Vo (β) – Scout ship
+- [x] Scimitar – Reman warbird
+- [x] Scorpion 4 – Scorpion-class Attack Fighter Squadron
 
 ## Species 8472
 - [ ] Bioship Alpha – Bio-ship
 - [ ] Bioship Beta – Bio-ship
 
 ## Vulcan
-- [ ] D'kyr – D'kyr-type
-- [ ] Ni'Var – Suurok-class
+- [x] D'kyr – D'kyr-type
+- [x] Ni'Var – Suurok-class
 
 ## Xindi
 - [ ] Calindra – Xindi-Aquatic cruiser
@@ -219,12 +218,12 @@ http://memory-alpha.wikia.com/wiki/Star_Trek:_Attack_Wing
 
 <details><summary>Expand</summary>
 
-# The Dominion War 
+# The Dominion War
 
 ## October 2013 – Operation Return
 - [ ] Krayton – D'Kora-class* × 3
 - [ ] Elite Attack dice/Reference cards† × 12
-- [ ] Deep Space 9 oversized token and cards† × 12
+- [x] Deep Space 9 oversized token and cards† × 12
 
 ## November 2013 – The Battle of Chin'toka
 - [ ] IKS Ch'Tang – B'rel-class* × 3
@@ -247,7 +246,7 @@ http://memory-alpha.wikia.com/wiki/Star_Trek:_Attack_Wing
 
 ## March 2014 – The Last Battle of Deep Space 9
 - [ ] Akorem – Bajoran scoutship* × 3
-- [ ] Federation Attack Squadron Resource (3-ship model), 1 Reference card, Ship card/token† × 12
+- [x] Federation Attack Squadron Resource (3-ship model), 1 Reference card, Ship card/token† × 12
 - [ ] Deep Space 9 token and cards† × 12
 - [ ] Map element sets × 6
 
@@ -255,10 +254,12 @@ http://memory-alpha.wikia.com/wiki/Star_Trek:_Attack_Wing
 - [ ] Deep Space 9 – 12-inch diameter Nor-Class space station (model)
 
 # The Collective
+#TODO
+- [ ] Randomized expansion pack ship† × 10
 
 ## July 2014 – First Contact
-- [ ] Ti'Mur – Suurok-class* × 3
-- [ ] Randomized expansion pack ship† × 10
+- [x] Ti'Mur – Suurok-class* × 3
+
 - [ ] Counter Attack dice† × 10
 - [ ] Map element sets × 5
 
@@ -269,7 +270,7 @@ http://memory-alpha.wikia.com/wiki/Star_Trek:_Attack_Wing
 - [ ] Map element sets × 5
 
 ## September 2014 – The Battle of Sector 001
-- [ ] USS Stargazer – Constellation-class* × 3
+- [x] USS Stargazer – Constellation-class* × 3
 - [ ] Randomized expansion pack ship† × 10
 - [ ] Officer cards† × 10
 - [ ] Map element sets × 5
@@ -277,9 +278,9 @@ http://memory-alpha.wikia.com/wiki/Star_Trek:_Attack_Wing
 ## Randomized Expansion Ships
 - [ ] 3rd Wing Attack Ship – Jem'Hadar fighter
 - [ ] Gavroche – Maquis raider
-- [ ] IKS B'Moth – K't'inga-class
-- [ ] IRW Vorta Vor – Romulan Bird-of-Prey (23rd century)
-- [ ] USS Yeager – Saber-class
+- [x] IKS B'Moth – K't'inga-class
+- [x] IRW Vorta Vor – Romulan Bird-of-Prey (23rd century)
+- [x] USS Yeager – Saber-class
 
 ## Grand Prize
 - [x] Assimilation Target Prime – Partially-assimilated USS Enterprise-D × 2
@@ -287,11 +288,11 @@ http://memory-alpha.wikia.com/wiki/Star_Trek:_Attack_Wing
 # Resistance Is Futile
 
 ## October 2014 – Dark Frontier
-- [ ] IRW Avatar of Tomed (β) – Assimilated D'deridex-class* × 3
+- [x] IRW Avatar of Tomed (β) – Assimilated D'deridex-class* × 3
 - [ ] Improved Shields cards with Reference cards† × 10
 
 ## November 2014 – Unimatrix Zero
-- [ ] Assimilated Vessel 80279 – Assimilated B'rel-class* × 3
+- [x] Assimilated Vessel 80279 – Assimilated B'rel-class* × 3
 - [ ] Advanced Targeting Systems cards with Reference cards† × 10
 
 ## December 2014 – Endgame
@@ -311,12 +312,12 @@ http://memory-alpha.wikia.com/wiki/Star_Trek:_Attack_Wing
 # The Q-Continuum
 
 ## April 2015 – Encounter at Farpoint
-- [ ] USS Hood – Excelsior-class* × 3
+- [x] USS Hood – Excelsior-class* × 3
 - [ ] Evasive Action template with Reference cards† × 10
 - [ ] Map element sets – Q-Continuum cards × 20
 
 ## May 2015 – Deja Q
-- [ ] IKS Korinar – B'rel-class* × 3
+- [x] IKS Korinar – B'rel-class* × 3
 - [ ] Damage Control Team cards† × 10
 
 ## June 2015 – All Good Things
@@ -327,6 +328,18 @@ http://memory-alpha.wikia.com/wiki/Star_Trek:_Attack_Wing
 - [ ] Q-Continuum card pack × 2
 
 # Temporal Cold War
+
+## Randomized Expansion Ships
+- [ ] Aldara - a Cardassian Galor class ship
+- [ ] Bioship Omega - a Species 8472 bioship class ship
+- [ ] I.K.S. Buruk - a Klingon K'Vort class ship
+- [ ] I.K.S. Toh'Kaht - a Mirror Universe Vor'cha class ship
+- [ ] Interceptor 8 - a Bajoran Interceptor class ship
+- [ ] I.R.W. Belak - a D'deridex class ship
+- [ ] Nistrim-Culluh - a Kazon Predator class ship
+- [ ] Nunk's Marauder - a Ferengi D'Kora class ship
+- [ ] Seleya - a Vulcan D'Kyr class ship
+- [ ] U.S.S. Lakota - an Excelsior class ship
 
 ## October 2015 – Shockwave
 - [ ] Diaspora – Xindi-Insectoid starship* × 3
@@ -363,11 +376,11 @@ http://memory-alpha.wikia.com/wiki/Star_Trek:_Attack_Wing
 # Klingon Civil War
 
 ## September 2016 – Attack On Gowron
-- [ ] IKS Bortas – Vor'cha-class card pack* × 3
+- [x] IKS Bortas – Vor'cha-class card pack* × 3
 - [ ] Fleet Commander cards† × 10
 
 ## October 2016 – Battle of Mempa
-- [ ] IKS Hegh'ta – K'vort-class card pack* × 3
+- [x] IKS Hegh'ta – K'vort-class card pack* × 3
 - [ ] Auxiliary Power cards† × 10
 
 ## November 2016 – Baiting The Romulans
@@ -375,7 +388,7 @@ http://memory-alpha.wikia.com/wiki/Star_Trek:_Attack_Wing
 - [ ] All Stop cards† × 10
 
 ## Grand Prize
-- [ ] Sela's Warbird – D'deridex-class × 2
+- [x] Sela's Warbird – D'deridex-class × 2
 
 </details>
 
@@ -397,12 +410,12 @@ http://memory-alpha.wikia.com/wiki/Star_Trek:_Attack_Wing
 - [ ] Map element sets × 5
 
 ## February 2015 – A Matter Of Honor
-- [ ] IKS Pagh – K'vort-class* × 3
+- [x] IKS Pagh – K'vort-class* × 3
 - [ ] Officer Exchange Program Resource and Reference cards† × 10
 - [ ] Map element sets × 5
 
 ## March 2015 – Peak Performance
-- [ ] Sakharov – Type 7 shuttlecraft* × 3
+- [x] Sakharov – Type 7 shuttlecraft* × 3
 - [ ] Master Strategist Token Resource and Reference cards† × 10
 - [ ] Map element sets × 5
 
@@ -432,7 +445,7 @@ http://memory-alpha.wikia.com/wiki/Star_Trek:_Attack_Wing
 - [ ] Intercepted Messages Resource and Reference cards† × 10
 
 ## August 2016 – The Corbomite Maneuver
-- [ ] IRW Rateg – Romulan Bird-of-Prey card pack* × 3
+- [x] IRW Rateg – Romulan Bird-of-Prey card pack* × 3
 - [ ] Condition Alert Resource and Reference cards† × 10
 
 ## September 2016 – The Trouble with Tribbles
@@ -448,7 +461,7 @@ http://memory-alpha.wikia.com/wiki/Star_Trek:_Attack_Wing
 - [ ] Mutiny Resource and Reference cards† × 10
 
 ## April 2017 – Drive
-- [ ] Delta Flyer II – Delta Flyer-type card pack* × 3
+- [x] Delta Flyer II – Delta Flyer-type card pack* × 3
 - [ ] Co-Pilot Resource and Reference cards† × 10
 
 </details>
