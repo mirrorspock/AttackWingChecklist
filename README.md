@@ -401,7 +401,7 @@ http://memory-alpha.wikia.com/wiki/Star_Trek:_Attack_Wing
 - [ ] S'Gorn – Gorn raider
 - [x] Chief Engineer resource Engineering tokens
 - [ ] Full Alert Upgrade and Reference cards
-- [ ] Map element sets (raw material tokens and planet?)
+- [x] Map element sets (raw material tokens and planet)
 
 ## February 2015 – A Matter Of Honor
 - [x] IKS Pagh – K'vort-class
