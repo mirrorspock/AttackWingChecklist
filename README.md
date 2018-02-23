@@ -5,7 +5,7 @@ http://memory-alpha.wikia.com/wiki/Star_Trek:_Attack_Wing
 2018-01
 
 # Starter sets
-<details><summary>Expand</summary>
+<details><summary>Click here to Expand</summary>
 
 ## Starter Set
 - [x] IKS Maht-H'a – Vor'cha-class
@@ -21,7 +21,7 @@ http://memory-alpha.wikia.com/wiki/Star_Trek:_Attack_Wing
 </details>
 
 # Expansion packs
-<details><summary>Expand</summary>
+<details><summary>Click here to Expand</summary>
 
 ## Bajoran
 - [x] Denorios – Lightship
@@ -149,7 +149,7 @@ http://memory-alpha.wikia.com/wiki/Star_Trek:_Attack_Wing
 
 
 # Faction packs
-<details><summary>Expand</summary>
+<details><summary>Click here to Expand</summary>
 
 
 ## Dominion – December 2017
@@ -191,7 +191,7 @@ http://memory-alpha.wikia.com/wiki/Star_Trek:_Attack_Wing
 </details>
 
 # Card packs
-<details><summary>Expand</summary>
+<details><summary>Click here to Expand</summary>
 
 ## September 2017 – Wave 1
 - [x] Cardassian ATR-4107 – Dreadnought
@@ -215,7 +215,7 @@ http://memory-alpha.wikia.com/wiki/Star_Trek:_Attack_Wing
 
 # Storyline Organized Play Events
 
-<details><summary>Expand</summary>
+<details><summary>Click here to Expand</summary>
 
 # The Dominion War
 
@@ -388,7 +388,7 @@ http://memory-alpha.wikia.com/wiki/Star_Trek:_Attack_Wing
 
 # Episode Organized Play Events
 
-<details><summary>Expand</summary>
+<details><summary>Click here to Expand</summary>
 
 
 ## April 2014 – The Tholian Web
@@ -462,7 +462,7 @@ http://memory-alpha.wikia.com/wiki/Star_Trek:_Attack_Wing
 
 # Monthly Organized Play Events
 
-<details><summary>Expand</summary>
+<details><summary>Click here to Expand</summary>
 
 ## August 2017 – Chronological Chaos
 - [ ] Data Upgrade Crew cards
