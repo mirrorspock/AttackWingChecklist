@@ -13,10 +13,10 @@ http://memory-alpha.wikia.com/wiki/Star_Trek:_Attack_Wing
 - [x] USS Enterprise-D – Galaxy-class
 
 ## Federation vs Klingons Starter Set
-- [ ] IKS Vorn – Klingon Bird-of-Prey
-- [ ] K'mpec's Attack Cruiser – Vor'cha-class
-- [ ] USS Enterprise-D – Galaxy-class
-- [ ] USS Sutherland – Nebula-class
+- [x] IKS Vorn – Klingon Bird-of-Prey
+- [x] K'mpec's Attack Cruiser – Vor'cha-class
+- [x] USS Enterprise-D – Galaxy-class
+- [x] USS Sutherland – Nebula-class
 
 </details>
 
@@ -58,18 +58,18 @@ http://memory-alpha.wikia.com/wiki/Star_Trek:_Attack_Wing
 - [x] USS Defiant – Defiant-class
 - [x] USS Enterprise – Constitution-class
 - [x] USS Enterprise – Constitution-class refit
-- [ ] USS Enterprise-B – Excelsior-class
+- [ ] **USS Enterprise-B – Excelsior-class**
 - [x] USS Enterprise-E – Sovereign-class
 - [x] USS Equinox – Nova-class
 - [x] USS Excelsior – Excelsior-class
 - [x] USS Hathaway – Constellation-class
-- [ ] USS Montgolfier (β) – Saber-class
+- [ ] **USS Montgolfier (β) – Saber-class**
 - [x] USS Pegasus – Oberth-class
-- [ ] USS Phoenix – Nebula-class
+- [ ] **USS Phoenix – Nebula-class**
 - [x] USS Prometheus – Prometheus-class
 - [x] USS Reliant – Miranda-class
 - [x] USS Thunderchild – Akira-class
-- [ ] USS Valiant – Defiant-class
+- [ ] **USS Valiant – Defiant-class**
 - [x] USS Venture – Galaxy-class
 - [x] USS Voyager – Intrepid-class
 
@@ -83,26 +83,27 @@ http://memory-alpha.wikia.com/wiki/Star_Trek:_Attack_Wing
 - [x] Gornarus – Gorn raider
 - [x] Kumari – Andorian battle cruiser
 - [x] Kyana Prime – Krenim timeship
-- [ ] Tholia One (β) – Tholian ship (22nd century)
+- [ ] **Tholia One (β) – Tholian ship (22nd century)**
 - [x] USS Dauntless – Species 116 Dauntless-class
 - [x] Val Jean – Maquis raider
 
 ## Kazon
+needs check!
 - [ ] Halik Raider – Raider
 - [ ] Nistrim Raider – Raider
 - [ ] Ogla-Razik – Predator-class
 
 ## Klingon
 - [x] Chang's Bird-of-Prey – prototype Bird-of-Prey
-- [ ] IKS Amar – K't'inga-class
-- [ ] IKS Drovana – Vor'cha-class
+- [ ] **IKS Amar – K't'inga-class**
+- [ ] **IKS Drovana – Vor'cha-class**
 - [x] IKS Gr'oth – D7-class
-- [ ] IKS Klothos – D7-class*
+- [ ] **IKS Klothos – D7-class**
 - [x] IKS Koraga – K'vort-class
-- [ ] IKS Kronos One – K't'inga-class
+- [ ] **IKS Kronos One – K't'inga-class**
 - [x] IKS Negh'Var – Negh'Var-class
-- [ ] IKS Ning'tao – B'rel-class
-- [ ] IKS Rotarran – B'rel-class
+- [ ] **IKS Ning'tao – B'rel-class**
+- [ ] **IKS Rotarran – B'rel-class**
 - [x] IKS Somraw – Raptor-class
 - [x] IKS T'Ong – K't'inga-class
 
@@ -115,18 +116,17 @@ http://memory-alpha.wikia.com/wiki/Star_Trek:_Attack_Wing
 
 ## Romulan
 - [x] Gal Gath'thong (β) – Bird-of-Prey (23rd century)
-- [ ] IRW Algeron – D7-class
-- [ ] IRW Devoras – D'deridex-class*
+- [ ] **IRW Algeron – D7-class**
+- [ ] **IRW Devoras – D'deridex-class**
 - [x] IRW Haakona – D'deridex-class
-- [ ] IRW Jazkal – Bird-of-Prey (22nd century)
-- [ ] IRW Jolan Tru – Valdore-type*
+- [ ] **IRW Jazkal – Bird-of-Prey (22nd century)**
 - [x] IRW Praetus – Bird-of-Prey (22nd century)
 - [x] IRW Valdore – Valdore-type
-- [ ] IRW Vrax – Valdore-type
-- [x] Prototype 01 – Drone-ship
+- [ ] **IRW Vrax – Valdore-type**
+- [x] Prototype 01 – Drone-ship**
 - [x] RIS Apnex (β) – Science vessel
-- [ ] RIS Pi – Scout ship
-- [ ] RIS Talvath – Science vessel
+- [ ] **RIS Pi – Scout ship**
+- [ ] **RIS Talvath – Science vessel**
 - [x] RIS Vo (β) – Scout ship
 - [x] Scimitar – Reman warbird
 - [x] Scorpion 4 – Scorpion-class Attack Fighter Squadron
@@ -220,31 +220,31 @@ http://memory-alpha.wikia.com/wiki/Star_Trek:_Attack_Wing
 # The Dominion War
 
 ## October 2013 – Operation Return
-- [ ] Krayton – D'Kora-class
+- [ ] **Krayton – D'Kora-class**
 - [x] Elite Attack dice/Reference cards
 - [x] Deep Space 9 oversized token and cards
 
 ## November 2013 – The Battle of Chin'toka
-- [ ] IKS Ch'Tang – B'rel-class
+- [ ] **IKS Ch'Tang – B'rel-class**
 - [x] Command tokens and cards/Reference cards
 - [x] Red Shirt Crew Upgrade promo cards
 
 ## December 2013 – The Siege of AR-558
-- [ ] PWB Aj'rmr – D'deridex-class
+- [ ] **PWB Aj'rmr – D'deridex-class**
 - [x] Reinforcements sideboards/Reference cards
 - [ ] 4 bases and 8 pegs in 4 colors
 
 ## January 2014 – The Attack On Earth
-- [ ] USS Sutherland – Nebula-class
+- [ ] **USS Sutherland – Nebula-class**
 - [x] Flagship set with 4 Flagship cards, 1 Reference card, 1 base, and 2 black pegs
 
 ## February 2014 – The Battle of Cardassia
 - [x] Rav Laerst (β) – Breen warship
-- [ ] Hideki-class Attack Squadron Resource (3-ship model), 1 Reference card, Ship card/token
-- [ ] Map element sets × 6 (turret tokens)
+- [ ] **Hideki-class Attack Squadron Resource (3-ship model), 1 Reference card, Ship card/token**
+- [ ] **Map element sets × 6 (turret tokens)**
 
 ## March 2014 – The Last Battle of Deep Space 9
-- [ ] Akorem – Bajoran scoutship
+- [ ] **Akorem – Bajoran scoutship**
 - [x] Federation Attack Squadron Resource (3-ship model), 1 Reference card, Ship card/token
 - [x] Deep Space 9 token and cards
 - [x] Map element sets × 6 (ds9)
@@ -260,7 +260,7 @@ http://memory-alpha.wikia.com/wiki/Star_Trek:_Attack_Wing
 - [x] Map element sets (card cube)
 
 ## August 2014 – The Battle of Wolf 359
-- [ ] USS Raven – Aerie-class (Raven type)
+- [ ] **USS Raven – Aerie-class (Raven type)**
 - [x] Fleet Captain cards
 - [ ] Map element sets (card cube and debris)
 
@@ -297,9 +297,9 @@ http://memory-alpha.wikia.com/wiki/Star_Trek:_Attack_Wing
 ## Randomized Expansion Ships
 - [x] Bok's Marauder – D'Kora-class
 - [x] Prakesh – Galor-class (mirror universe)
-- [ ] Relora Sankur – Predator-class
+- [ ] **Relora Sankur – Predator-class**
 - [x] Scout 255 – Borg scout ship
-- [ ] Tal'Kir – D'kyr-type
+- [ ] **Tal'Kir – D'kyr-type**
 
 ## Grand Prize
 - [x] Tactical Cube 001 – Borg tactical cube
@@ -325,16 +325,16 @@ http://memory-alpha.wikia.com/wiki/Star_Trek:_Attack_Wing
 # Temporal Cold War
 
 ## Randomized Expansion Ships
-- [ ] Aldara - a Cardassian Galor class ship
-- [ ] Bioship Omega - a Species 8472 bioship class ship
-- [ ] I.K.S. Buruk - a Klingon K'Vort class ship
-- [x] I.K.S. Toh'Kaht - a Mirror Universe Vor'cha class ship
-- [ ] Interceptor 8 - a Bajoran Interceptor class ship
-- [ ] I.R.W. Belak - a D'deridex class ship
-- [ ] Nistrim-Culluh - a Kazon Predator class ship
-- [ ] Nunk's Marauder - a Ferengi D'Kora class ship
-- [ ] Seleya - a Vulcan D'Kyr class ship
-- [ ] U.S.S. Lakota - an Excelsior class ship
+- [ ] **Aldara - a Cardassian Galor class ship**
+- [ ] **Bioship Omega - a Species 8472 bioship class ship**
+- [ ] **I.K.S. Buruk - a Klingon K'Vort class ship**
+- [x] I.K.S. Toh'Kaht - a Mirror Universe Vor'cha class ship**
+- [ ] **Interceptor 8 - a Bajoran Interceptor class ship**
+- [ ] **I.R.W. Belak - a D'deridex class ship**
+- [ ] **Nistrim-Culluh - a Kazon Predator class ship**
+- [ ] **Nunk's Marauder - a Ferengi D'Kora class ship**
+- [ ] **Seleya - a Vulcan D'Kyr class ship**
+- [ ] **U.S.S. Lakota - an Excelsior class ship**
 
 ## October 2015 – Shockwave
 - [x] Diaspora – Xindi-Insectoid starship
@@ -349,7 +349,7 @@ http://memory-alpha.wikia.com/wiki/Star_Trek:_Attack_Wing
 - [x] Main Power Grid cards
 
 ## Grand Prize
-- [ ] Temporal Cold War card pack
+- [ ] **Temporal Cold War card pack**
 
 # The Classic Movies
 
@@ -358,15 +358,15 @@ http://memory-alpha.wikia.com/wiki/Star_Trek:_Attack_Wing
 - [ ] General Orders cards
 
 ## May 2016 – The Search for Spock
-- [ ] Kruge's Bird-of-Prey – B'rel-class card pack
+- [ ] **Kruge's Bird-of-Prey – B'rel-class card pack**
 - [x] Emergency Power cards
 
 ## June 2016 – The Voyage Home
-- [ ] HMS Bounty – B'rel-class card pack
+- [ ] **HMS Bounty – B'rel-class card pack**
 - [ ] Improved Hull cards
 
 ## Grand Prize
-- [ ] USS Enterprise-A – Constitution-class refit
+- [ ] **USS Enterprise-A – Constitution-class refit**
 
 # Klingon Civil War
 
@@ -379,7 +379,7 @@ http://memory-alpha.wikia.com/wiki/Star_Trek:_Attack_Wing
 - [x] Auxiliary Power cards
 
 ## November 2016 – Baiting The Romulans
-- [ ] IKS Toral – B'rel-class card pack
+- [ ] **IKS Toral – B'rel-class card pack**
 - [x] All Stop cards
 
 ## Grand Prize
@@ -399,7 +399,7 @@ http://memory-alpha.wikia.com/wiki/Star_Trek:_Attack_Wing
 - [ ] Map element sets (tholian web)
 
 ## May 2014 – Arena
-- [ ] S'Gorn – Gorn raider
+- [ ] **S'Gorn – Gorn raider**
 - [x] Chief Engineer resource Engineering tokens
 - [ ] Full Alert Upgrade and Reference cards
 - [x] Map element sets (raw material tokens and planet)
@@ -415,19 +415,19 @@ http://memory-alpha.wikia.com/wiki/Star_Trek:_Attack_Wing
 - [x] Map element sets (brown planet)
 
 ## August 2015 – Year of Hell
-- [ ] USS Bellerophon – Intrepid-class
+- [ ] **USS Bellerophon – Intrepid-class**
 - [ ] Emergency Force Field cards
 - [ ] Token sheets × 5
 - [ ] 2 × Ship, 1 × Maneuver, 2 × Captain, 1 × Additional Rules, and 4 × Upgrade cards
 
 ## September 2015 – Balance of Terror
-- [ ] USS Intrepid – Constitution-class
+- [ ] **USS Intrepid – Constitution-class**
 - [x] Sabotage cards
 - [ ] Token sheets × 5
 - [ ] 2 × Ship, 1 × Maneuver, 2 × Captain, 1 × Additional Rules, and 4 × Upgrade cards
 
 ## January 2016 – The Void
-- [ ] IRW T'Met – D'deridex-class card pack
+- [ ] **IRW T'Met – D'deridex-class card pack**
 - [ ] Tactics Resource and Reference cards
 
 ## February 2016 – The Doomsday Machine
@@ -436,7 +436,7 @@ http://memory-alpha.wikia.com/wiki/Star_Trek:_Attack_Wing
 - [x] Map element sets – Doomsday Machine tokens
 
 ## July 2016 – Tin Man
-- [ ] USS Cairo – Excelsior-class card pack
+- [ ] **USS Cairo – Excelsior-class card pack**
 - [ ] Intercepted Messages Resource and Reference cards
 
 ## August 2016 – The Corbomite Maneuver
@@ -444,11 +444,11 @@ http://memory-alpha.wikia.com/wiki/Star_Trek:_Attack_Wing
 - [x] Condition Alert Resource and Reference cards
 
 ## September 2016 – The Trouble with Tribbles
-- [ ] Kohlar's Battle Cruiser – D7-class card pack
+- [ ] **Kohlar's Battle Cruiser – D7-class card pack**
 - [ ] Scan Cycle Resource and Reference cards
 
 ## January 2017 – Yesterday's Enterprise
-- [ ] USS Enterprise-D – Galaxy-class card pack
+- [ ] **USS Enterprise-D – Galaxy-class card pack**
 - [ ] Senior Staff Resource and Reference cards
 
 ## March 2017 – In a Mirror, Darkly
