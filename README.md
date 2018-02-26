@@ -466,24 +466,24 @@ http://memory-alpha.wikia.com/wiki/Star_Trek:_Attack_Wing
 <details><summary>Click here to Expand</summary>
 
 ## August 2017 – Chronological Chaos
-- [ ] Data Upgrade Crew cards
+- [x] Data Upgrade Crew cards
 - [x] Captain’s Chair Resource and Reference cards
-- [ ] Nanclus Alt Art Crew cards‡ × 3
+- [x] Nanclus Alt Art Crew cards‡ × 3
 
 ## October 2017 – Resource Rumble
 - [ ] Sabotaged Systems Tech cards
 - [ ] Front-Line Retrofit Resource and Reference cards
-- [ ] Elizabeth Shelby Alt Art Crew cards‡ × 3
+- [ ] Elizabeth Shelby Alt Art Crew cards‡
 
 ## December 2017 – Trap Travesty
-- [ ] Long-Range Probe Resource cards* × 10
-- [ ] Photonic Cannon Weapon Upgrade cards† × 3
-- [ ] Romulan Pilot Alt Art Crew cards‡ × 3
+- [x] Long-Range Probe Resource cards
+- [x] Photonic Cannon Weapon Upgrade cards† × 3
+- [x] Romulan Pilot Alt Art Crew cards‡ × 3
 
 ## April 2018 – 2018 OP Kit 1 Turret Turmoil
-- [ ] Sickbay Resource
-- [ ] Kal-If-Fee Elite Talent Upgrade Competitive Prize Cards
-- [ ] Sakonna Alt Art Crew Flex Prizes
+- [x] Sickbay Resource
+- [x] Kal-If-Fee Elite Talent Upgrade Competitive Prize Cards
+- [x] Sakonna Alt Art Crew Flex Prizes
 
 ## June 2018 – 2018 OP Kit 2
 - [ ] TBA
