@@ -1,14 +1,12 @@
 # Overview of re-costed Generic Ships
 
-Wizkids has [ruled](http://win.wizkids.com/bb/viewtopic.php?f=24&t=14209&sid=30bd8ea591196c3ba0c22ac722bbf37a) that all generic ships will be re-costed when a new version is released
+Wizkids has [ruled](http://win.wizkids.com/bb/viewtopic.php?f=24&t=14209&sid=30bd8ea591196c3ba0c22ac722bbf37a) that all generic ships will be re-costed when a new version is released:
 
-```
-First and foremost, absolutely nothing is obsolete with the advent of the new rulebook and products. All cards are still usable.
-
-That being said, we will being altering the point cost of ALL generic ships to match their new point costs. For example, the original generic Galaxy Class costs 26 points and the one in the new starter costs only 22 point. For all purposes, the original 26 point Galaxy Class now costs 22 points.
-
-However, all unique ships' point values will remain the same. This means that the original U.S.S. Enterprise-D will still stay 28 points even though the new U.S.S. Enterprise-D is only 26 points.
-```
+> First and foremost, absolutely nothing is obsolete with the advent of the new rulebook and products. All cards are still usable.
+> 
+> That being said, we will being altering the point cost of ALL generic ships to match their new point costs. For example, the original generic Galaxy Class costs 26 points and the one in the new starter costs only 22 point. For all purposes, the original 26 point Galaxy Class now costs 22 points.
+> 
+> However, all unique ships' point values will remain the same. This means that the original U.S.S. Enterprise-D will still stay 28 points even though the new U.S.S. Enterprise-D is only 26 points.
 
 
 ## Federation
