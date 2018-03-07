@@ -19,9 +19,6 @@
 * Ferengi D'Kora ~~20~~ **16** *(-4)*
 * Ferengi Shuttle ~~14~~ **8** *(-6)*
 
-## Unaligned
-* Gorn Raider ~~20~~ **14** *(-6)*
-
 ## Dominion
 * Jem'hadar attack ship ~~20~~ **13** *(-7)*
 * Jem'hadar battleship ~~34~~ **29** *(-5)*
@@ -31,3 +28,6 @@
 ## Borg
 * Borg Octahedron ~~40~~ **38** *(-2)*
 * Borg Cube ~~80~~ **50** *(-30)*
+
+## Independent
+* Gorn Raider ~~20~~ **14** *(-6)*
