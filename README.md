@@ -355,7 +355,7 @@ needs check!
 
 ## April 2016 – The Wrath of Khan
 - [x] USS Reliant – Miranda-class card pack
-- [ ] General Orders cards
+- [x] General Orders cards
 
 ## May 2016 – The Search for Spock
 - [ ] **Kruge's Bird-of-Prey – B'rel-class card pack**
@@ -372,7 +372,7 @@ needs check!
 
 ## September 2016 – Attack On Gowron
 - [x] IKS Bortas – Vor'cha-class card pack
-- [ ] Fleet Commander cards
+- [x] Fleet Commander cards
 
 ## October 2016 – Battle of Mempa
 - [x] IKS Hegh'ta – K'vort-class card pack
@@ -471,9 +471,9 @@ needs check!
 - [x] Nanclus Alt Art Crew cards‡ × 3
 
 ## October 2017 – Resource Rumble
-- [ ] Sabotaged Systems Tech cards
-- [ ] Front-Line Retrofit Resource and Reference cards
-- [ ] Elizabeth Shelby Alt Art Crew cards‡
+- [x] Sabotaged Systems Tech cards
+- [x] Front-Line Retrofit Resource and Reference cards
+- [x] Elizabeth Shelby Alt Art Crew cards‡
 
 ## December 2017 – Trap Travesty
 - [x] Long-Range Probe Resource cards
