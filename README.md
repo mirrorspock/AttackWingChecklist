@@ -96,7 +96,7 @@ needs check!
 ## Klingon
 - [x] Chang's Bird-of-Prey – prototype Bird-of-Prey
 - [ ] **IKS Amar – K't'inga-class**
-- [ ] **IKS Drovana – Vor'cha-class**
+- [?] IKS Drovana – Vor'cha-class
 - [x] IKS Gr'oth – D7-class
 - [ ] **IKS Klothos – D7-class**
 - [x] IKS Koraga – K'vort-class
@@ -363,7 +363,7 @@ needs check!
 
 ## June 2016 – The Voyage Home
 - [ ] **HMS Bounty – B'rel-class card pack**
-- [ ] Improved Hull cards
+- [?] Improved Hull cards
 
 ## Grand Prize
 - [ ] **USS Enterprise-A – Constitution-class refit**
@@ -416,7 +416,7 @@ needs check!
 
 ## August 2015 – Year of Hell
 - [ ] **USS Bellerophon – Intrepid-class**
-- [ ] Emergency Force Field cards
+- [?] Emergency Force Field cards
 - [ ] Token sheets × 5
 - [ ] 2 × Ship, 1 × Maneuver, 2 × Captain, 1 × Additional Rules, and 4 × Upgrade cards
 
@@ -437,7 +437,7 @@ needs check!
 
 ## July 2016 – Tin Man
 - [ ] **USS Cairo – Excelsior-class card pack**
-- [ ] Intercepted Messages Resource and Reference cards
+- [?] Intercepted Messages Resource and Reference cards
 
 ## August 2016 – The Corbomite Maneuver
 - [x] IRW Rateg – Romulan Bird-of-Prey card pack
@@ -445,11 +445,11 @@ needs check!
 
 ## September 2016 – The Trouble with Tribbles
 - [ ] **Kohlar's Battle Cruiser – D7-class card pack**
-- [ ] Scan Cycle Resource and Reference cards
+- [?] Scan Cycle Resource and Reference cards
 
 ## January 2017 – Yesterday's Enterprise
 - [ ] **USS Enterprise-D – Galaxy-class card pack**
-- [ ] Senior Staff Resource and Reference cards
+- [?] Senior Staff Resource and Reference cards
 
 ## March 2017 – In a Mirror, Darkly
 - [x] USS Defiant – Constitution-class card pack
@@ -457,7 +457,7 @@ needs check!
 
 ## April 2017 – Drive
 - [x] Delta Flyer II – Delta Flyer-type card pack
-- [ ] Co-Pilot Resource and Reference cards
+- [?] Co-Pilot Resource and Reference cards
 
 </details>
 
