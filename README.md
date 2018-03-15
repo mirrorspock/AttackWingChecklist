@@ -65,7 +65,7 @@ http://memory-alpha.wikia.com/wiki/Star_Trek:_Attack_Wing
 - [x] USS Hathaway – Constellation-class
 - [ ] **USS Montgolfier (β) – Saber-class**
 - [x] USS Pegasus – Oberth-class
-- [ ] **USS Phoenix – Nebula-class**
+- [?] USS Phoenix – Nebula-class
 - [x] USS Prometheus – Prometheus-class
 - [x] USS Reliant – Miranda-class
 - [x] USS Thunderchild – Akira-class
@@ -102,7 +102,7 @@ needs check!
 - [x] IKS Koraga – K'vort-class
 - [ ] **IKS Kronos One – K't'inga-class**
 - [x] IKS Negh'Var – Negh'Var-class
-- [ ] **IKS Ning'tao – B'rel-class**
+- [x] IKS Ning'tao – B'rel-class
 - [ ] **IKS Rotarran – B'rel-class**
 - [x] IKS Somraw – Raptor-class
 - [x] IKS T'Ong – K't'inga-class
