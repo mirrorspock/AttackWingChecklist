@@ -15,6 +15,9 @@ Wizkids has [ruled](http://win.wizkids.com/bb/viewtopic.php?f=24&t=14209&sid=30b
 * Oberth Class ~~18~~ **12** *(-6)*
 
 ## Klingon
+
+* Klingon B'rel ~~20~~ **13** *(-7)*
+* Klingon Bird of Prey ~~20~~ **13** *(-7)*
 * Klingon Raptor ~~16~~ **11** *(-5)*
 * Klingon K'Vort ~~24~~ **20** *(-4)*
 * Klingon Vor'Cha ~~26~~ **22** *(-4)*
@@ -39,6 +42,10 @@ Wizkids has [ruled](http://win.wizkids.com/bb/viewtopic.php?f=24&t=14209&sid=30b
 ## Borg
 * Borg Octahedron ~~40~~ **38** *(-2)*
 * Borg Cube ~~80~~ **50** *(-30)*
+
+## Mirror Universe
+* Romulan D'Deridex ~~28~~ **25** *(-3)*
+* Klingon Vor'Cha ~~26~~ **22** *(-4)*
 
 ## Independent
 * Gorn Raider ~~20~~ **14** *(-6)*
