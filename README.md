@@ -122,7 +122,7 @@ needs check!
 - [ ] **IRW Jazkal – Bird-of-Prey (22nd century)**
 - [x] IRW Praetus – Bird-of-Prey (22nd century)
 - [x] IRW Valdore – Valdore-type
-- [?] IRW Vrax – Valdore-type
+- [x] IRW Vrax – Valdore-type
 - [x] Prototype 01 – Drone-ship**
 - [x] RIS Apnex (β) – Science vessel
 - [ ] **RIS Pi – Scout ship**
