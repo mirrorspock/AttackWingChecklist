@@ -421,7 +421,7 @@ needs check!
 - [ ] 2 × Ship, 1 × Maneuver, 2 × Captain, 1 × Additional Rules, and 4 × Upgrade cards
 
 ## September 2015 – Balance of Terror
-- [ ] **USS Intrepid – Constitution-class**
+- [?] USS Intrepid – Constitution-class
 - [x] Sabotage cards
 - [ ] Token sheets × 5
 - [ ] 2 × Ship, 1 × Maneuver, 2 × Captain, 1 × Additional Rules, and 4 × Upgrade cards
