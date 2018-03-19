@@ -35,7 +35,7 @@ Wizkids has [ruled](http://win.wizkids.com/bb/viewtopic.php?f=24&t=14209&sid=30b
 
 ## Dominion
 * Jem'hadar attack ship ~~20~~ **13** *(-7)*
-* Jem'hadar battleship ~~34~~ **29** *(-5)*
+* Jem'hadar battleship ~~34~~ **29** *(-5)* note: the old battleship has 4-bank, and its movement dial/card are still legal to use on the new ships
 * Jem'hadar battle cruiser ~~32~~ **29** *(-3)*
 * ATR-4107 ~~28~~ **24** *(-4)*
 
