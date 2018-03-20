@@ -41,7 +41,7 @@ Wizkids has [ruled](http://win.wizkids.com/bb/viewtopic.php?f=24&t=14209&sid=30b
 
 ## Borg
 * Borg Octahedron ~~40~~ **38** *(-2)*
-* Borg Cube ~~80~~ **50** *(-30)* note: this one was not listed in the ruling, but does follor it.
+* Borg Cube ~~80~~ **50** *(-30)*
 
 ## Mirror Universe
 * Romulan D'Deridex ~~28~~ **25** *(-3)*
