@@ -204,8 +204,8 @@ needs check!
 - [x] Goss' Marauder D'kora-class
 
 ## March 2018 – Wave 3
-- [ ] Jem'Hadar fighter
-- [ ] Gorn raider
+- [x] Jem'Hadar fighter
+- [x] Gorn raider
 
 ## May 2018 – Wave 4
 - [ ] Federation Attack Fighter Squadron
