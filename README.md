@@ -208,8 +208,8 @@ needs check!
 - [x] Gorn raider
 
 ## May 2018 – Wave 4
-- [ ] Federation Attack Fighter Squadron
-- [ ] Hirogen warship
+- [?] Federation Attack Fighter Squadron
+- [?] Hirogen warship
 
 </details>
 
