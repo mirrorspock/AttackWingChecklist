@@ -362,11 +362,11 @@ needs check!
 - [x] Emergency Power cards
 
 ## June 2016 – The Voyage Home
-- [ ] **HMS Bounty – B'rel-class card pack**
+- [?] HMS Bounty – B'rel-class card pack
 - [x] Improved Hull cards
 
 ## Grand Prize
-- [ ] **USS Enterprise-A – Constitution-class refit**
+- [?] USS Enterprise-A – Constitution-class refit
 
 # Klingon Civil War
 
@@ -444,7 +444,7 @@ needs check!
 - [x] Condition Alert Resource and Reference cards
 
 ## September 2016 – The Trouble with Tribbles
-- [ ] **Kohlar's Battle Cruiser – D7-class card pack**
+- [?] Kohlar's Battle Cruiser – D7-class card pack
 - [x] Scan Cycle Resource and Reference cards
 
 ## January 2017 – Yesterday's Enterprise
