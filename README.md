@@ -91,7 +91,7 @@ http://memory-alpha.wikia.com/wiki/Star_Trek:_Attack_Wing
 needs check!
 - [ ] Halik Raider – Raider
 - [ ] Nistrim Raider – Raider
-- [ ] Ogla-Razik – Predator-class
+- [x] Ogla-Razik – Predator-class
 
 ## Klingon
 - [x] Chang's Bird-of-Prey – prototype Bird-of-Prey
@@ -297,7 +297,7 @@ needs check!
 ## Randomized Expansion Ships
 - [x] Bok's Marauder – D'Kora-class
 - [x] Prakesh – Galor-class (mirror universe)
-- [ ] **Relora Sankur – Predator-class**
+- [x] Relora Sankur – Predator-class
 - [x] Scout 255 – Borg scout ship
 - [ ] **Tal'Kir – D'kyr-type**
 
