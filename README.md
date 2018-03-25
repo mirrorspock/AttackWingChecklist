@@ -358,7 +358,7 @@ needs check!
 - [x] General Orders cards
 
 ## May 2016 – The Search for Spock
-- [ ] **Kruge's Bird-of-Prey – B'rel-class card pack**
+- [?] Kruge's Bird-of-Prey – B'rel-class card pack
 - [x] Emergency Power cards
 
 ## June 2016 – The Voyage Home
@@ -379,7 +379,7 @@ needs check!
 - [x] Auxiliary Power cards
 
 ## November 2016 – Baiting The Romulans
-- [ ] **IKS Toral – B'rel-class card pack**
+- [?] IKS Toral – B'rel-class card pack
 - [x] All Stop cards
 
 ## Grand Prize
@@ -436,7 +436,7 @@ needs check!
 - [x] Map element sets – Doomsday Machine tokens
 
 ## July 2016 – Tin Man
-- [ ] **USS Cairo – Excelsior-class card pack**
+- [?] USS Cairo – Excelsior-class card pack
 - [x] Intercepted Messages Resource and Reference cards
 
 ## August 2016 – The Corbomite Maneuver
