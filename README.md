@@ -65,7 +65,7 @@ http://memory-alpha.wikia.com/wiki/Star_Trek:_Attack_Wing
 - [x] USS Hathaway – Constellation-class
 - [ ] **USS Montgolfier (β) – Saber-class**
 - [x] USS Pegasus – Oberth-class
-- [?] USS Phoenix – Nebula-class
+- [x] USS Phoenix – Nebula-class
 - [x] USS Prometheus – Prometheus-class
 - [x] USS Reliant – Miranda-class
 - [x] USS Thunderchild – Akira-class
@@ -415,13 +415,13 @@ needs check!
 - [x] Map element sets (brown planet)
 
 ## August 2015 – Year of Hell
-- [ ] **USS Bellerophon – Intrepid-class**
+- [x] USS Bellerophon – Intrepid-class
 - [x] Emergency Force Field cards
 - [ ] Token sheets × 5
 - [ ] 2 × Ship, 1 × Maneuver, 2 × Captain, 1 × Additional Rules, and 4 × Upgrade cards
 
 ## September 2015 – Balance of Terror
-- [?] USS Intrepid – Constitution-class
+- [x] USS Intrepid – Constitution-class
 - [x] Sabotage cards
 - [ ] Token sheets × 5
 - [ ] 2 × Ship, 1 × Maneuver, 2 × Captain, 1 × Additional Rules, and 4 × Upgrade cards
