@@ -4,15 +4,18 @@
 http://memory-alpha.wikia.com/wiki/Star_Trek:_Attack_Wing
 2018-01
 
-# Starter sets
+#Promo Items *(Missing 1 Captain)*
+- [ ] GenCon Khan
+
+# Starter sets *(complete)*
 <details><summary>Click here to Expand</summary>
 
-## Starter Set
+## Starter Set *(complete)*
 - [x] IKS Maht-H'a – Vor'cha-class
 - [x] IRW Khazara – D'deridex-class
 - [x] USS Enterprise-D – Galaxy-class
 
-## Federation vs Klingons Starter Set
+## Federation vs Klingons Starter Set *(complete)*
 - [x] IKS Vorn – Klingon Bird-of-Prey
 - [x] K'mpec's Attack Cruiser – Vor'cha-class
 - [x] USS Enterprise-D – Galaxy-class
@@ -20,15 +23,15 @@ http://memory-alpha.wikia.com/wiki/Star_Trek:_Attack_Wing
 
 </details>
 
-# Expansion packs
+# Expansion packs 
 <details><summary>Click here to Expand</summary>
 
-## Bajoran
+## Bajoran *(complete)*
 - [x] Denorios – Lightship
 - [x] Interceptor Five – Interceptor
 - [x] Ratosha – Scoutship
 
-## Borg
+## Borg *(complete)*
 - [x] Cube 112 – Cube
 - [x] Cube 384 – Cube with Sphere port
 - [x] Queen Vessel Prime – Octahedron (Queen's vessel)
@@ -38,7 +41,7 @@ http://memory-alpha.wikia.com/wiki/Star_Trek:_Attack_Wing
 - [x] Sphere 4270 – Sphere
 - [x] Tactical Cube 138 – Tactical cube
 
-## Dominion
+## Dominion *(complete)*
 - [x] 1st Wave Attack Fighters – Cardassian Hideki-class Attack Squadron
 - [x] 2nd Division Cruiser – Dominion battle cruiser
 - [x] 4th Division Battleship – Dominion battleship
@@ -50,7 +53,7 @@ http://memory-alpha.wikia.com/wiki/Star_Trek:_Attack_Wing
 - [x] Reklar – Cardassian Galor-class
 - [x] Robinson (β) – Jem'Hadar fighter
 
-## Federation
+## Federation *(missing 3)*
 - [x] Deep Space 9 – Nor-class station
 - [x] Delta Flyer – Delta Flyer-type
 - [x] Enterprise NX-01 – NX-class
@@ -73,11 +76,11 @@ http://memory-alpha.wikia.com/wiki/Star_Trek:_Attack_Wing
 - [x] USS Venture – Galaxy-class
 - [x] USS Voyager – Intrepid-class
 
-## Ferengi
+## Ferengi *(complete)*
 - [x] Kreechta – D'kora-class
 - [x] Quark's Treasure – Shuttle
 
-## Independent
+## Independent *(missing 1)*
 - [x] Alpha Hunter – Hirogen warship
 - [x] Fina Prime – Vidiian warship
 - [x] Gornarus – Gorn raider
@@ -87,13 +90,12 @@ http://memory-alpha.wikia.com/wiki/Star_Trek:_Attack_Wing
 - [x] USS Dauntless – Species 116 Dauntless-class
 - [x] Val Jean – Maquis raider
 
-## Kazon
-needs check!
+## Kazon *(missing 2)*
 - [ ] Halik Raider – Raider
 - [ ] Nistrim Raider – Raider
 - [x] Ogla-Razik – Predator-class
 
-## Klingon
+## Klingon *(missing 4)*
 - [x] Chang's Bird-of-Prey – prototype Bird-of-Prey
 - [ ] **IKS Amar – K't'inga-class**
 - [?] IKS Drovana – Vor'cha-class
@@ -107,14 +109,14 @@ needs check!
 - [x] IKS Somraw – Raptor-class
 - [x] IKS T'Ong – K't'inga-class
 
-## Mirror Universe
+## Mirror Universe *(complete)*
 - [x] ISS Avenger – NX-class
 - [x] ISS Defiant – Defiant-class
 - [x] ISS Enterprise – Constitution-class
 - [x] Regent's Flagship – Negh'Var-class
 - [x] USS Pasteur – Olympic-class
 
-## Romulan
+## Romulan *(missing 5)*
 - [x] Gal Gath'thong (β) – Bird-of-Prey (23rd century)
 - [ ] **IRW Algeron – D7-class**
 - [ ] **IRW Devoras – D'deridex-class**
@@ -131,15 +133,15 @@ needs check!
 - [x] Scimitar – Reman warbird
 - [x] Scorpion 4 – Scorpion-class Attack Fighter Squadron
 
-## Species 8472
+## Species 8472 *(complete)*
 - [x] Bioship Alpha – Bio-ship
 - [x] Bioship Beta – Bio-ship
 
-## Vulcan
+## Vulcan *(complete)*
 - [x] D'kyr – D'kyr-type
 - [x] Ni'Var – Suurok-class
 
-## Xindi
+## Xindi *(complete)*
 - [x] Calindra – Xindi-Aquatic cruiser
 - [x] Muratas – Xindi-Reptilian warship
 - [x] Orassin – Xindi-Insectoid starship
@@ -148,41 +150,41 @@ needs check!
 </details>
 
 
-# Faction packs
+# Faction packs *(preordered)*
 <details><summary>Click here to Expand</summary>
 
 
-## Dominion – December 2017
+## Dominion – December 2017 *(preordered)*
 - [ ] 2nd Division Battleship – Dominion battleship
 - [ ] 2nd Wing Patrol Ship – Jem'Hadar fighter
 - [ ] 3rd Division Battle Cruiser – Dominion battle cruiser
 - [ ] 6th Wing Patrol Ship – Jem'Hadar fighter
 
-## Romulan – December 2017
+## Romulan – December 2017 *(preordered)*
 - [ ] IRW Suran – Reman warbird
 - [ ] Jarok's Scout Vessel – Scout ship
 - [ ] Mirok's Science Vessel – Science vessel
 - [ ] PWB Tomal – D'deridex-class
 
-## Independent Ferengi – February 2018
+## Independent Ferengi – February 2018 *(preordered)*
 - [ ] TBA – B'rel-class (Ferengi commandeered)
 - [ ] TBA – D'kora-class
 - [ ] TBA – Ferengi shuttle
 
-## Mirror Universe Kelvin Timeline – April 2018
+## Mirror Universe Kelvin Timeline – April 2018 *(preordered)*
 - [ ] TBA – Constitution class (alternate reality)
 - [ ] TBA – Klingon warbird
 
-## Independent Motley Fleet – June 2018
+## Independent Motley Fleet – June 2018 *(preordered)*
 - [ ] TBA – Andorian battle cruiser
 - [ ] TBA – Maquis raider
 - [ ] TBA – Species 116 Dauntless-class
 - [ ] TBA – Vidiian warship
 
-## Star Trek: The Animated Series – July 2018
+## Star Trek: The Animated Series – July 2018 *(preordered)*
 - [ ] TBA × 4
 
-## Borg – August 2018
+## Borg – August 2018 *(preordered)*
 - [ ] TBA – Assimilated Galaxy-class
 - [ ] TBA – Assimilated Intrepid-class
 - [ ] TBA – Scout ship
@@ -190,24 +192,24 @@ needs check!
 
 </details>
 
-# Card packs
+# Card packs *(complete)*
 <details><summary>Click here to Expand</summary>
 
-## September 2017 – Wave 1
+## September 2017 – Wave 1 *(complete)*
 - [x] Cardassian ATR-4107 – Dreadnought
 - [x] Oberth-class – USS Grissom
 - [x] Raptor-class – IKS Ves Batlh
 - [x] Romulan drone ship – Prototype 02
 
-## January 2018 – Wave 2
+## January 2018 – Wave 2 *(complete)*
 - [x] Borg Octahedron (Borg Queen's vessel)
 - [x] Goss' Marauder D'kora-class
 
-## March 2018 – Wave 3
+## March 2018 – Wave 3 *(complete)*
 - [x] Jem'Hadar fighter
 - [x] Gorn raider
 
-## May 2018 – Wave 4
+## May 2018 – Wave 4 *(preordered)*
 - [?] Federation Attack Fighter Squadron
 - [?] Hirogen warship
 
@@ -217,7 +219,7 @@ needs check!
 
 <details><summary>Click here to Expand</summary>
 
-# The Dominion War
+# The Dominion War *(missing 5 ships, 1 resource, 2 extras)*
 
 ## October 2013 – Operation Return
 - [ ] **Krayton – D'Kora-class**
@@ -252,7 +254,7 @@ needs check!
 ## Grand Prize
 - [ ] Deep Space 9 – 12-inch diameter Nor-Class space station (model)
 
-# The Collective
+# The Collective *(missing 1 ships, 2 extras)*
 
 ## July 2014 – First Contact
 - [x] Ti'Mur – Suurok-class
@@ -279,7 +281,7 @@ needs check!
 ## Grand Prize
 - [x] Assimilation Target Prime – Partially-assimilated USS Enterprise-D
 
-# Resistance Is Futile
+# Resistance Is Futile *(missing 1 ship)*
 
 ## October 2014 – Dark Frontier
 - [x] IRW Avatar of Tomed (β) – Assimilated D'deridex-class
@@ -304,7 +306,7 @@ needs check!
 ## Grand Prize
 - [x] Tactical Cube 001 – Borg tactical cube
 
-# The Q-Continuum
+# The Q-Continuum *(Complete)*
 
 ## April 2015 – Encounter at Farpoint
 - [x] USS Hood – Excelsior-class
@@ -322,7 +324,7 @@ needs check!
 ## Grand Prize
 - [x] Q-Continuum card pack
 
-# Temporal Cold War
+# Temporal Cold War *(missing 9 blind ships, 1 Card pack)*
 
 ## Randomized Expansion Ships
 - [ ] **Aldara - a Cardassian Galor class ship**
@@ -351,7 +353,7 @@ needs check!
 ## Grand Prize
 - [ ] **Temporal Cold War card pack**
 
-# The Classic Movies
+# The Classic Movies *(Complete)*
 
 ## April 2016 – The Wrath of Khan
 - [x] USS Reliant – Miranda-class card pack
@@ -368,7 +370,7 @@ needs check!
 ## Grand Prize
 - [?] USS Enterprise-A – Constitution-class refit
 
-# Klingon Civil War
+# Klingon Civil War *(Complete)*
 
 ## September 2016 – Attack On Gowron
 - [x] IKS Bortas – Vor'cha-class card pack
@@ -392,70 +394,70 @@ needs check!
 <details><summary>Click here to Expand</summary>
 
 
-## April 2014 – The Tholian Web
+## April 2014 – The Tholian Web *(Missing 1 Resource, 1 Map elements )*
 - [x] Tholia One (β) – Tholian ship
 - [?] Red Alert Upgrade cards #TODO: i might have this
 - [ ] Full About maneuver templates and Reference cards, Skilled helmsman
 - [ ] Map element sets (tholian web)
 
-## May 2014 – Arena
+## May 2014 – Arena *(Missing 1 Ship)*
 - [ ] **S'Gorn – Gorn raider**
 - [x] Chief Engineer resource Engineering tokens
 - [?] Full Alert Upgrade and Reference cards, #TODO:I might have this
 - [x] Map element sets (raw material tokens and planet)
 
-## February 2015 – A Matter Of Honor
+## February 2015 – A Matter Of Honor *(Missing 1 Map elements )*
 - [x] IKS Pagh – K'vort-class
 - [x] Officer Exchange Program Resource and Reference cards
 - [ ] Map element sets (Subatomic Bacteria Tokens)
 
-## March 2015 – Peak Performance
+## March 2015 – Peak Performance *(Complete)*
 - [x] Sakharov – Type 7 shuttlecraft
 - [x] Master Strategist Token Resource and Reference cards
 - [x] Map element sets (brown planet)
 
-## August 2015 – Year of Hell
+## August 2015 – Year of Hell *(Missing 1 Card pack? )*
 - [x] USS Bellerophon – Intrepid-class
 - [x] Emergency Force Field cards
 - [ ] Token sheets × 5
 - [ ] 2 × Ship, 1 × Maneuver, 2 × Captain, 1 × Additional Rules, and 4 × Upgrade cards
 
-## September 2015 – Balance of Terror
+## September 2015 – Balance of Terror  *(Missing 1 Card Pack? )*
 - [x] USS Intrepid – Constitution-class
 - [x] Sabotage cards
 - [ ] Token sheets × 5
 - [ ] 2 × Ship, 1 × Maneuver, 2 × Captain, 1 × Additional Rules, and 4 × Upgrade cards
 
-## January 2016 – The Void
+## January 2016 – The Void  *(Missing 1 Ship, 1 Resource)*
 - [ ] **IRW T'Met – D'deridex-class card pack**
 - [ ] Tactics Resource and Reference cards
 
-## February 2016 – The Doomsday Machine
+## February 2016 – The Doomsday Machine *(Complete)*
 - [x] USS Constellation – Constitution-class card pack
 - [x] Structural Damage Check cards
 - [x] Map element sets – Doomsday Machine tokens
 
-## July 2016 – Tin Man
+## July 2016 – Tin Man *(Complete)*
 - [?] USS Cairo – Excelsior-class card pack
 - [x] Intercepted Messages Resource and Reference cards
 
-## August 2016 – The Corbomite Maneuver
+## August 2016 – The Corbomite Maneuver *(Complete)*
 - [x] IRW Rateg – Romulan Bird-of-Prey card pack
 - [x] Condition Alert Resource and Reference cards
 
-## September 2016 – The Trouble with Tribbles
+## September 2016 – The Trouble with Tribbles *(Complete)*
 - [?] Kohlar's Battle Cruiser – D7-class card pack
 - [x] Scan Cycle Resource and Reference cards
 
-## January 2017 – Yesterday's Enterprise
+## January 2017 – Yesterday's Enterprise *(Missing Card Pack)*
 - [ ] **USS Enterprise-D – Galaxy-class card pack**
 - [x] Senior Staff Resource and Reference cards
 
-## March 2017 – In a Mirror, Darkly
+## March 2017 – In a Mirror, Darkly *(Complete)*
 - [x] USS Defiant – Constitution-class card pack
 - [x] Mutiny Resource and Reference cards
 
-## April 2017 – Drive
+## April 2017 – Drive *(Complete)*
 - [x] Delta Flyer II – Delta Flyer-type card pack
 - [x] Co-Pilot Resource and Reference cards
 
@@ -465,22 +467,22 @@ needs check!
 
 <details><summary>Click here to Expand</summary>
 
-## August 2017 – Chronological Chaos
+## August 2017 – Chronological Chaos *(Complete)*
 - [x] Data Upgrade Crew cards
 - [x] Captain’s Chair Resource and Reference cards
 - [x] Nanclus Alt Art Crew cards‡ × 3
 
-## October 2017 – Resource Rumble
+## October 2017 – Resource Rumble *(Complete)*
 - [x] Sabotaged Systems Tech cards
 - [x] Front-Line Retrofit Resource and Reference cards
 - [x] Elizabeth Shelby Alt Art Crew cards‡
 
-## December 2017 – Trap Travesty
+## December 2017 – Trap Travesty *(Complete)*
 - [x] Long-Range Probe Resource cards
 - [x] Photonic Cannon Weapon Upgrade cards† × 3
 - [x] Romulan Pilot Alt Art Crew cards‡ × 3
 
-## April 2018 – 2018 OP Kit 1 Turret Turmoil
+## April 2018 – 2018 OP Kit 1 Turret Turmoil *(Complete)*
 - [x] Sickbay Resource
 - [x] Kal-If-Fee Elite Talent Upgrade Competitive Prize Cards
 - [x] Sakonna Alt Art Crew Flex Prizes
