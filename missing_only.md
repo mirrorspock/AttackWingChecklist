@@ -14,10 +14,6 @@ http://memory-alpha.wikia.com/wiki/Star_Trek:_Attack_Wing
 - [ ] **USS Montgolfier (β) – Saber-class**
 - [ ] **USS Valiant – Defiant-class**
 
-## Ferengi *(complete)*
-- [x] Kreechta – D'kora-class
-- [x] Quark's Treasure – Shuttle
-
 ## Independent *(missing 1)*
 - [ ] **Tholia One (β) – Tholian ship (22nd century)**
 
@@ -73,9 +69,6 @@ http://memory-alpha.wikia.com/wiki/Star_Trek:_Attack_Wing
 ## August 2014 – The Battle of Wolf 359
 - [ ] **USS Raven – Aerie-class (Raven type)**
 - [ ] Map element sets (card cube and debris)
-
-## Grand Prize
-- [x] Assimilation Target Prime – Partially-assimilated USS Enterprise-D
 
 # Resistance Is Futile *(missing 1 ship)*
 
