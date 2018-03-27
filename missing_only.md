@@ -100,14 +100,6 @@ http://memory-alpha.wikia.com/wiki/Star_Trek:_Attack_Wing
 ## May 2014 – Arena *(Missing 1 Ship)*
 - [ ] **S'Gorn – Gorn raider**
 
-## August 2015 – Year of Hell *(Missing 1 Card pack? )*
-- [ ] Token sheets × 5
-- [ ] 2 × Ship, 1 × Maneuver, 2 × Captain, 1 × Additional Rules, and 4 × Upgrade cards
-
-## September 2015 – Balance of Terror  *(Missing 1 Card Pack? )*
-- [ ] Token sheets × 5
-- [ ] 2 × Ship, 1 × Maneuver, 2 × Captain, 1 × Additional Rules, and 4 × Upgrade cards
-
 ## January 2016 – The Void  *(Missing 1 Ship, 1 Resource)*
 - [ ] **IRW T'Met – D'deridex-class card pack**
 - [ ] Tactics Resource and Reference cards

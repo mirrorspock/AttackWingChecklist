@@ -419,17 +419,13 @@ http://memory-alpha.wikia.com/wiki/Star_Trek:_Attack_Wing
 - [x] Master Strategist Token Resource and Reference cards
 - [x] Map element sets (brown planet)
 
-## August 2015 – Year of Hell *(Missing 1 Card pack? )*
+## August 2015 – Year of Hell *(Complete)*
 - [x] USS Bellerophon – Intrepid-class
 - [x] Emergency Force Field cards
-- [ ] Token sheets × 5
-- [ ] 2 × Ship, 1 × Maneuver, 2 × Captain, 1 × Additional Rules, and 4 × Upgrade cards
 
-## September 2015 – Balance of Terror  *(Missing 1 Card Pack? )*
+## September 2015 – Balance of Terror  *(Complete )*
 - [x] USS Intrepid – Constitution-class
 - [x] Sabotage cards
-- [ ] Token sheets × 5
-- [ ] 2 × Ship, 1 × Maneuver, 2 × Captain, 1 × Additional Rules, and 4 × Upgrade cards
 
 ## January 2016 – The Void  *(Missing 1 Ship, 1 Resource)*
 - [ ] **IRW T'Met – D'deridex-class card pack**
