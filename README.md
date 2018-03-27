@@ -4,7 +4,7 @@
 http://memory-alpha.wikia.com/wiki/Star_Trek:_Attack_Wing
 2018-01
 
-#Promo Items *(Missing 1 Captain)*
+# Promo Items *(Missing 1 Captain)*
 - [ ] GenCon Khan
 
 # Starter sets *(complete)*
