@@ -104,5 +104,8 @@ http://memory-alpha.wikia.com/wiki/Star_Trek:_Attack_Wing
 - [ ] **IRW T'Met – D'deridex-class card pack**
 - [ ] Tactics Resource and Reference cards
 
+## May 2016 – The Search for Spock
+- [ ] Emergency Power cards
+
 ## January 2017 – Yesterday's Enterprise *(Missing Card Pack)*
 - [ ] **USS Enterprise-D – Galaxy-class card pack**
