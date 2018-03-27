@@ -1,5 +1,8 @@
 # AttackWingChecklist
 
+[ONLY SHOW MISSING](https://github.com/mirrorspock/AttackWingChecklist/blob/master/missing_only.md)
+
+
 # Star Trek Attack Wing Checklist
 http://memory-alpha.wikia.com/wiki/Star_Trek:_Attack_Wing
 2018-01
