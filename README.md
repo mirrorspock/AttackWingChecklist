@@ -364,7 +364,7 @@ http://memory-alpha.wikia.com/wiki/Star_Trek:_Attack_Wing
 
 ## May 2016 – The Search for Spock
 - [?] Kruge's Bird-of-Prey – B'rel-class card pack
-- [ ] Emergency Power cards
+- [x] Emergency Power cards
 
 ## June 2016 – The Voyage Home
 - [?] HMS Bounty – B'rel-class card pack
