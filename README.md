@@ -363,7 +363,7 @@ http://memory-alpha.wikia.com/wiki/Star_Trek:_Attack_Wing
 - [x] General Orders cards
 
 ## May 2016 – The Search for Spock
-- [?] Kruge's Bird-of-Prey – B'rel-class card pack
+- [x] Kruge's Bird-of-Prey – B'rel-class card pack
 - [x] Emergency Power cards
 
 ## June 2016 – The Voyage Home
@@ -384,7 +384,7 @@ http://memory-alpha.wikia.com/wiki/Star_Trek:_Attack_Wing
 - [x] Auxiliary Power cards
 
 ## November 2016 – Baiting The Romulans
-- [?] IKS Toral – B'rel-class card pack
+- [x] IKS Toral – B'rel-class card pack
 - [x] All Stop cards
 
 ## Grand Prize
@@ -437,7 +437,7 @@ http://memory-alpha.wikia.com/wiki/Star_Trek:_Attack_Wing
 - [x] Map element sets – Doomsday Machine tokens
 
 ## July 2016 – Tin Man *(Complete)*
-- [?] USS Cairo – Excelsior-class card pack
+- [x] USS Cairo – Excelsior-class card pack
 - [x] Intercepted Messages Resource and Reference cards
 
 ## August 2016 – The Corbomite Maneuver *(Complete)*
