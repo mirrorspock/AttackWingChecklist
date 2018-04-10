@@ -10,9 +10,7 @@ http://memory-alpha.wikia.com/wiki/Star_Trek:_Attack_Wing
 # Expansion packs *(Missing 15)*
 
 ## Federation *(missing 3)*
-- [ ] **USS Enterprise-B – Excelsior-class**
 - [ ] **USS Montgolfier (β) – Saber-class**
-- [ ] **USS Valiant – Defiant-class**
 
 ## Independent *(missing 1)*
 - [ ] **Tholia One (β) – Tholian ship (22nd century)**
@@ -24,25 +22,18 @@ http://memory-alpha.wikia.com/wiki/Star_Trek:_Attack_Wing
 ## Klingon *(missing 4)*
 - [ ] **IKS Amar – K't'inga-class**
 - [ ] **IKS Klothos – D7-class**
-- [ ] **IKS Kronos One – K't'inga-class**
 - [ ] **IKS Rotarran – B'rel-class**
 
 ## Mirror Universe *(complete)*
 
 ## Romulan *(missing 5)*
-- [ ] **IRW Algeron – D7-class**
 - [ ] **IRW Devoras – D'deridex-class**
 - [ ] **IRW Jazkal – Bird-of-Prey (22nd century)**
-- [ ] **RIS Pi – Scout ship**
-- [ ] **RIS Talvath – Science vessel**
 
 # Storyline Organized Play Events
 
 
 # The Dominion War *(missing 5 ships, 1 resource, 2 extras)*
-
-## October 2013 – Operation Return
-- [ ] **Krayton – D'Kora-class**
 
 ## November 2013 – The Battle of Chin'toka
 - [ ] **IKS Ch'Tang – B'rel-class**
@@ -51,15 +42,9 @@ http://memory-alpha.wikia.com/wiki/Star_Trek:_Attack_Wing
 - [ ] **PWB Aj'rmr – D'deridex-class**
 - [ ] 4 bases and 8 pegs in 4 colors
 
-## January 2014 – The Attack On Earth
-- [ ] **USS Sutherland – Nebula-class**
-
 ## February 2014 – The Battle of Cardassia
 - [ ] **Hideki-class Attack Squadron Resource (3-ship model), 1 Reference card, Ship card/token**
 - [ ] **Map element sets × 6 (turret tokens)**
-
-## March 2014 – The Last Battle of Deep Space 9
-- [ ] **Akorem – Bajoran scoutship**
 
 ## Grand Prize
 - [ ] Deep Space 9 – 12-inch diameter Nor-Class space station (model)
@@ -67,7 +52,6 @@ http://memory-alpha.wikia.com/wiki/Star_Trek:_Attack_Wing
 # The Collective *(missing 1 ships, 2 extras)*
 
 ## August 2014 – The Battle of Wolf 359
-- [ ] **USS Raven – Aerie-class (Raven type)**
 - [ ] Map element sets (card cube and debris)
 
 # Resistance Is Futile *(missing 1 ship)*
@@ -84,7 +68,6 @@ http://memory-alpha.wikia.com/wiki/Star_Trek:_Attack_Wing
 - [ ] **Interceptor 8 - a Bajoran Interceptor class ship**
 - [ ] **I.R.W. Belak - a D'deridex class ship**
 - [ ] **Nistrim-Culluh - a Kazon Predator class ship**
-- [ ] **Nunk's Marauder - a Ferengi D'Kora class ship**
 - [ ] **Seleya - a Vulcan D'Kyr class ship**
 - [ ] **U.S.S. Lakota - an Excelsior class ship**
 
@@ -101,7 +84,6 @@ http://memory-alpha.wikia.com/wiki/Star_Trek:_Attack_Wing
 - [ ] **S'Gorn – Gorn raider**
 
 ## January 2016 – The Void  *(Missing 1 Ship, 1 Resource)*
-- [ ] **IRW T'Met – D'deridex-class card pack**
 - [ ] Tactics Resource and Reference cards
 
 ## January 2017 – Yesterday's Enterprise *(Missing Card Pack)*
