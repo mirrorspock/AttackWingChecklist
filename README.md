@@ -304,7 +304,7 @@ http://memory-alpha.wikia.com/wiki/Star_Trek:_Attack_Wing
 - [x] Prakesh – Galor-class (mirror universe)
 - [x] Relora Sankur – Predator-class
 - [x] Scout 255 – Borg scout ship
-- [ ] **Tal'Kir – D'kyr-type**
+- [x] Tal'Kir – D'kyr-type
 
 ## Grand Prize
 - [x] Tactical Cube 001 – Borg tactical cube
