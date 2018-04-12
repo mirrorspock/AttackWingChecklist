@@ -54,11 +54,6 @@ http://memory-alpha.wikia.com/wiki/Star_Trek:_Attack_Wing
 ## August 2014 – The Battle of Wolf 359
 - [ ] Map element sets (card cube and debris)
 
-# Resistance Is Futile *(missing 1 ship)*
-
-## Randomized Expansion Ships
-- [ ] **Tal'Kir – D'kyr-type**
-
 # Temporal Cold War *(missing 9 blind ships, 1 Card pack)*
 
 ## Randomized Expansion Ships
