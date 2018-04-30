@@ -231,6 +231,7 @@ http://memory-alpha.wikia.com/wiki/Star_Trek:_Attack_Wing
 
 ## November 2013 – The Battle of Chin'toka
 - [ ] **IKS Ch'Tang – B'rel-class**
+- [x] Map Elements 4 Turret Tokens, Planet and Debris.
 - [x] Command tokens and cards/Reference cards
 - [x] Red Shirt Crew Upgrade promo cards
 
