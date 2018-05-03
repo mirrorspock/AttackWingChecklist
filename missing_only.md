@@ -7,10 +7,7 @@ http://memory-alpha.wikia.com/wiki/Star_Trek:_Attack_Wing
 # Promo Items *(Missing 1 Captain)*
 - [ ] GenCon Khan
 
-# Expansion packs *(Missing 15)*
-
-## Federation *(missing 3)*
-- [ ] **USS Montgolfier (β) – Saber-class**
+# Expansion packs *(Missing 6)*
 
 ## Independent *(missing 1)*
 - [ ] **Tholia One (β) – Tholian ship (22nd century)**
@@ -19,14 +16,12 @@ http://memory-alpha.wikia.com/wiki/Star_Trek:_Attack_Wing
 - [ ] Halik Raider – Raider
 - [ ] Nistrim Raider – Raider
 
-## Klingon *(missing 4)*
-- [ ] **IKS Amar – K't'inga-class**
+## Klingon *(missing 1)*
 - [ ] **IKS Klothos – D7-class**
-- [ ] **IKS Rotarran – B'rel-class**
 
 ## Mirror Universe *(complete)*
 
-## Romulan *(missing 5)*
+## Romulan *(missing 2)*
 - [ ] **IRW Devoras – D'deridex-class**
 - [ ] **IRW Jazkal – Bird-of-Prey (22nd century)**
 

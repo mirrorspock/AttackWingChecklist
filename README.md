@@ -69,7 +69,7 @@ http://memory-alpha.wikia.com/wiki/Star_Trek:_Attack_Wing
 - [x] USS Equinox – Nova-class
 - [x] USS Excelsior – Excelsior-class
 - [x] USS Hathaway – Constellation-class
-- [ ] **USS Montgolfier (β) – Saber-class**
+- [x] USS Montgolfier (β) – Saber-class
 - [x] USS Pegasus – Oberth-class
 - [x] USS Phoenix – Nebula-class
 - [x] USS Prometheus – Prometheus-class
@@ -100,7 +100,7 @@ http://memory-alpha.wikia.com/wiki/Star_Trek:_Attack_Wing
 
 ## Klingon *(missing 4)*
 - [x] Chang's Bird-of-Prey – prototype Bird-of-Prey
-- [ ] **IKS Amar – K't'inga-class**
+- [x] IKS Amar – K't'inga-class
 - [?] IKS Drovana – Vor'cha-class
 - [x] IKS Gr'oth – D7-class
 - [ ] **IKS Klothos – D7-class**
@@ -108,7 +108,7 @@ http://memory-alpha.wikia.com/wiki/Star_Trek:_Attack_Wing
 - [?] IKS Kronos One – K't'inga-class
 - [x] IKS Negh'Var – Negh'Var-class
 - [x] IKS Ning'tao – B'rel-class
-- [ ] **IKS Rotarran – B'rel-class**
+- [x] IKS Rotarran – B'rel-class
 - [x] IKS Somraw – Raptor-class
 - [x] IKS T'Ong – K't'inga-class
 
