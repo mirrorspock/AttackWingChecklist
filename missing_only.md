@@ -28,7 +28,7 @@ http://memory-alpha.wikia.com/wiki/Star_Trek:_Attack_Wing
 # Storyline Organized Play Events
 
 
-# The Dominion War *(missing 5 ships, 1 resource, 2 extras)*
+# The Dominion War *(missing 2 ships, 2 extras)*
 
 ## November 2013 – The Battle of Chin'toka
 - [ ] **IKS Ch'Tang – B'rel-class**
@@ -38,7 +38,6 @@ http://memory-alpha.wikia.com/wiki/Star_Trek:_Attack_Wing
 - [ ] 4 bases and 8 pegs in 4 colors
 
 ## February 2014 – The Battle of Cardassia
-- [ ] **Hideki-class Attack Squadron Resource (3-ship model), 1 Reference card, Ship card/token**
 - [ ] **Map element sets × 6 (turret tokens)**
 
 ## Grand Prize
