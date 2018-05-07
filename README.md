@@ -368,11 +368,11 @@ http://memory-alpha.wikia.com/wiki/Star_Trek:_Attack_Wing
 - [x] Emergency Power cards
 
 ## June 2016 – The Voyage Home
-- [?] HMS Bounty – B'rel-class card pack
+- [ ] HMS Bounty – B'rel-class card pack
 - [x] Improved Hull cards
 
 ## Grand Prize
-- [?] USS Enterprise-A – Constitution-class refit
+- [ ] USS Enterprise-A – Constitution-class refit
 
 # Klingon Civil War *(Complete)*
 
@@ -446,7 +446,7 @@ http://memory-alpha.wikia.com/wiki/Star_Trek:_Attack_Wing
 - [x] Condition Alert Resource and Reference cards
 
 ## September 2016 – The Trouble with Tribbles *(Complete)*
-- [?] Kohlar's Battle Cruiser – D7-class card pack
+- [ ] Kohlar's Battle Cruiser – D7-class card pack
 - [x] Scan Cycle Resource and Reference cards
 
 ## January 2017 – Yesterday's Enterprise *(Missing Card Pack)*
