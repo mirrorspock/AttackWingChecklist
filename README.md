@@ -246,7 +246,7 @@ http://memory-alpha.wikia.com/wiki/Star_Trek:_Attack_Wing
 
 ## February 2014 – The Battle of Cardassia
 - [x] Rav Laerst (β) – Breen warship
-- [x] Hideki-class Attack Squadron Resource (3-ship model), 1 Reference card, Ship card/token
+- [ ] **Hideki-class Attack Squadron Resource (3-ship model), 1 Reference card, Ship card/token**
 - [ ] **Map element sets × 6 (turret tokens)**
 
 ## March 2014 – The Last Battle of Deep Space 9
