@@ -7,16 +7,11 @@ http://memory-alpha.wikia.com/wiki/Star_Trek:_Attack_Wing
 # Promo Items *(Missing 1 Captain)*
 - [ ] GenCon Khan
 
-<<<<<<< HEAD
-# Expansion packs *(Missing 6)*
-=======
 # Expansion packs *(Missing 15)*
 
 ## Federation *(missing 3)*
 - [ ] **USS Enterprise-B – Excelsior-class**
-- [ ] **USS Montgolfier (β) – Saber-class**
 - [ ] **USS Valiant – Defiant-class**
->>>>>>> parent of 4e7c9cc... bought from Gary Adamski
 
 ## Independent *(missing 1)*
 - [ ] **Tholia One (β) – Tholian ship (22nd century)**
@@ -27,12 +22,6 @@ http://memory-alpha.wikia.com/wiki/Star_Trek:_Attack_Wing
 
 ## Klingon *(missing 1)*
 - [ ] **IKS Klothos – D7-class**
-<<<<<<< HEAD
-
-## Mirror Universe *(complete)*
-
-## Romulan *(missing 2)*
-=======
 - [ ] **IKS Kronos One – K't'inga-class**
 - [ ] **IKS Rotarran – B'rel-class**
 
@@ -40,7 +29,6 @@ http://memory-alpha.wikia.com/wiki/Star_Trek:_Attack_Wing
 
 ## Romulan *(missing 5)*
 - [ ] **IRW Algeron – D7-class**
->>>>>>> parent of 4e7c9cc... bought from Gary Adamski
 - [ ] **IRW Devoras – D'deridex-class**
 - [ ] **IRW Jazkal – Bird-of-Prey (22nd century)**
 - [ ] **RIS Pi – Scout ship**
