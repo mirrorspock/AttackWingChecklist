@@ -64,7 +64,7 @@ http://memory-alpha.wikia.com/wiki/Star_Trek:_Attack_Wing
 - [x] USS Defiant – Defiant-class
 - [x] USS Enterprise – Constitution-class
 - [x] USS Enterprise – Constitution-class refit
-- [?] USS Enterprise-B – Excelsior-class
+- [ ] **USS Enterprise-B – Excelsior-class**
 - [x] USS Enterprise-E – Sovereign-class
 - [x] USS Equinox – Nova-class
 - [x] USS Excelsior – Excelsior-class
@@ -75,7 +75,7 @@ http://memory-alpha.wikia.com/wiki/Star_Trek:_Attack_Wing
 - [x] USS Prometheus – Prometheus-class
 - [x] USS Reliant – Miranda-class
 - [x] USS Thunderchild – Akira-class
-- [?] USS Valiant – Defiant-class
+- [ ] **USS Valiant – Defiant-class**
 - [x] USS Venture – Galaxy-class
 - [x] USS Voyager – Intrepid-class
 
@@ -105,7 +105,7 @@ http://memory-alpha.wikia.com/wiki/Star_Trek:_Attack_Wing
 - [x] IKS Gr'oth – D7-class
 - [ ] **IKS Klothos – D7-class**
 - [x] IKS Koraga – K'vort-class
-- [?] IKS Kronos One – K't'inga-class
+- [ ] **IKS Kronos One – K't'inga-class**
 - [x] IKS Negh'Var – Negh'Var-class
 - [x] IKS Ning'tao – B'rel-class
 - [x] IKS Rotarran – B'rel-class
@@ -121,7 +121,7 @@ http://memory-alpha.wikia.com/wiki/Star_Trek:_Attack_Wing
 
 ## Romulan *(missing 5)*
 - [x] Gal Gath'thong (β) – Bird-of-Prey (23rd century)
-- [?] IRW Algeron – D7-class
+- [ ] **IRW Algeron – D7-class**
 - [ ] **IRW Devoras – D'deridex-class**
 - [x] IRW Haakona – D'deridex-class
 - [ ] **IRW Jazkal – Bird-of-Prey (22nd century)**
@@ -130,8 +130,8 @@ http://memory-alpha.wikia.com/wiki/Star_Trek:_Attack_Wing
 - [x] IRW Vrax – Valdore-type
 - [x] Prototype 01 – Drone-ship**
 - [x] RIS Apnex (β) – Science vessel
-- [?] RIS Pi – Scout ship
-- [?] RIS Talvath – Science vessel
+- [ ] **RIS Pi – Scout ship**
+- [ ] **RIS Talvath – Science vessel**
 - [x] RIS Vo (β) – Scout ship
 - [x] Scimitar – Reman warbird
 - [x] Scorpion 4 – Scorpion-class Attack Fighter Squadron
@@ -225,7 +225,7 @@ http://memory-alpha.wikia.com/wiki/Star_Trek:_Attack_Wing
 # The Dominion War *(missing 5 ships, 1 resource, 2 extras)*
 
 ## October 2013 – Operation Return
-- [?] Krayton – D'Kora-class
+- [ ] **Krayton – D'Kora-class**
 - [x] Elite Attack dice/Reference cards
 - [x] Deep Space 9 oversized token and cards
 
@@ -241,7 +241,7 @@ http://memory-alpha.wikia.com/wiki/Star_Trek:_Attack_Wing
 - [ ] 4 bases and 8 pegs in 4 colors
 
 ## January 2014 – The Attack On Earth
-- [?] USS Sutherland – Nebula-class
+- [ ] **USS Sutherland – Nebula-class**
 - [x] Flagship set with 4 Flagship cards, 1 Reference card, 1 base, and 2 black pegs
 
 ## February 2014 – The Battle of Cardassia
@@ -250,7 +250,7 @@ http://memory-alpha.wikia.com/wiki/Star_Trek:_Attack_Wing
 - [ ] **Map element sets × 6 (turret tokens)**
 
 ## March 2014 – The Last Battle of Deep Space 9
-- [?] Akorem – Bajoran scoutship
+- [ ] **Akorem – Bajoran scoutship**
 - [x] Federation Attack Squadron Resource (3-ship model), 1 Reference card, Ship card/token
 - [x] Deep Space 9 token and cards
 - [x] Map element sets × 6 (ds9)
@@ -266,7 +266,7 @@ http://memory-alpha.wikia.com/wiki/Star_Trek:_Attack_Wing
 - [x] Map element sets (card cube)
 
 ## August 2014 – The Battle of Wolf 359
-- [?] USS Raven – Aerie-class (Raven type)
+- [ ] **USS Raven – Aerie-class (Raven type)**
 - [x] Fleet Captain cards
 - [ ] Map element sets (card cube and debris)
 
@@ -338,7 +338,7 @@ http://memory-alpha.wikia.com/wiki/Star_Trek:_Attack_Wing
 - [ ] **Interceptor 8 - a Bajoran Interceptor class ship**
 - [ ] **I.R.W. Belak - a D'deridex class ship**
 - [ ] **Nistrim-Culluh - a Kazon Predator class ship**
-- [?] Nunk's Marauder - a Ferengi D'Kora class ship
+- [ ] **Nunk's Marauder - a Ferengi D'Kora class ship**
 - [ ] **Seleya - a Vulcan D'Kyr class ship**
 - [ ] **U.S.S. Lakota - an Excelsior class ship**
 
@@ -429,7 +429,7 @@ http://memory-alpha.wikia.com/wiki/Star_Trek:_Attack_Wing
 - [x] Sabotage cards
 
 ## January 2016 – The Void  *(Missing 1 Ship, 1 Resource)*
-- [?] IRW T'Met – D'deridex-class card pack
+- [ ] **IRW T'Met – D'deridex-class card pack**
 - [ ] Tactics Resource and Reference cards
 
 ## February 2016 – The Doomsday Machine *(Complete)*
