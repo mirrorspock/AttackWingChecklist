@@ -23,7 +23,6 @@ http://memory-alpha.wikia.com/wiki/Star_Trek:_Attack_Wing
 ## Klingon *(missing 1)*
 - [ ] **IKS Klothos – D7-class**
 - [ ] **IKS Kronos One – K't'inga-class**
-- [ ] **IKS Rotarran – B'rel-class**
 
 ## Mirror Universe *(complete)*
 
@@ -48,9 +47,6 @@ http://memory-alpha.wikia.com/wiki/Star_Trek:_Attack_Wing
 ## December 2013 – The Siege of AR-558
 - [ ] **PWB Aj'rmr – D'deridex-class**
 - [ ] 4 bases and 8 pegs in 4 colors
-
-## January 2014 – The Attack On Earth
-- [ ] **USS Sutherland – Nebula-class**
 
 ## February 2014 – The Battle of Cardassia
 - [ ] **Hideki-class Attack Squadron Resource (3-ship model), 1 Reference card, Ship card/token**

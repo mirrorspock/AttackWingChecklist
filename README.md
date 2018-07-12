@@ -241,7 +241,7 @@ http://memory-alpha.wikia.com/wiki/Star_Trek:_Attack_Wing
 - [ ] 4 bases and 8 pegs in 4 colors
 
 ## January 2014 – The Attack On Earth
-- [ ] **USS Sutherland – Nebula-class**
+- [x] USS Sutherland – Nebula-class
 - [x] Flagship set with 4 Flagship cards, 1 Reference card, 1 base, and 2 black pegs
 
 ## February 2014 – The Battle of Cardassia
