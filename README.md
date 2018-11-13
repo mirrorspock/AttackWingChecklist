@@ -26,6 +26,23 @@ http://memory-alpha.wikia.com/wiki/Star_Trek:_Attack_Wing
 
 </details>
 
+# Faction packs *(preordered)*
+<details><summary>Click here to Expand</summary>
+## Star Trek: Attack Wing - Independent Faction Pack
+
+## Star Trek: Attack Wing – Dominion Faction Pack
+
+## Star Trek: Attack Wing – Romulan Faction Pack
+
+## Star Trek: Attack Wing – Mirror Universe Faction Pack: The Kelvin Timeline 
+
+## Star Trek: Attack Wing – Independent Faction Pack: A Motley Fleet (2018)
+
+
+
+</details>
+
+
 # Expansion packs *(Missing 15)*
 <details><summary>Click here to Expand</summary>
 
@@ -153,8 +170,6 @@ http://memory-alpha.wikia.com/wiki/Star_Trek:_Attack_Wing
 </details>
 
 
-# Faction packs *(preordered)*
-<details><summary>Click here to Expand</summary>
 
 
 ## Dominion – December 2017 *(preordered)*
@@ -212,9 +227,9 @@ http://memory-alpha.wikia.com/wiki/Star_Trek:_Attack_Wing
 - [x] Jem'Hadar fighter
 - [x] Gorn raider
 
-## May 2018 – Wave 4 *(preordered)*
-- [?] Federation Attack Fighter Squadron
-- [?] Hirogen warship
+## May 2018 – Wave 4 *(complete)*
+- [x] Federation Attack Fighter Squadron
+- [x] Hirogen warship
 
 </details>
 
