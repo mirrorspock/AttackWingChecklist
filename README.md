@@ -243,11 +243,12 @@ http://memory-alpha.wikia.com/wiki/Star_Trek:_Attack_Wing
 ## January 2014 – The Attack On Earth
 - [x] USS Sutherland – Nebula-class
 - [x] Flagship set with 4 Flagship cards, 1 Reference card, 1 base, and 2 black pegs
+- [x] Token Set, Planet Earth, HQ and defence
 
 ## February 2014 – The Battle of Cardassia
 - [x] Rav Laerst (β) – Breen warship
 - [ ] **Hideki-class Attack Squadron Resource (3-ship model), 1 Reference card, Ship card/token**
-- [ ] **Map element sets × 6 (turret tokens)**
+- [x] Map element sets × 6 (turret tokens)
 
 ## March 2014 – The Last Battle of Deep Space 9
 - [ ] **Akorem – Bajoran scoutship**
