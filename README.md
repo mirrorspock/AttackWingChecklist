@@ -50,7 +50,7 @@ http://memory-alpha.wikia.com/wiki/Star_Trek:_Attack_Wing
 - [x] TBA – Constitution class (alternate reality)
 - [x] TBA – Klingon warbird
 
-## Star Trek: Attack Wing – Independent Faction Pack: A Motley Fleet (2018)
+## Star Trek: Attack Wing – Independent Faction Pack: A Motley Fleet
 - [x] TBA – Andorian battle cruiser
 - [x] TBA – Maquis raider
 - [x] TBA – Species 116 Dauntless-class

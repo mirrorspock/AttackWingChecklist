@@ -48,4 +48,9 @@ Wizkids has [ruled](http://win.wizkids.com/bb/viewtopic.php?f=24&t=14209&sid=30b
 * Klingon Vor'Cha ~~26~~ **22** *(-4)*
 
 ## Independent
+* Andorian Battle Cruiser ~~20~~ **16** *(-4)*
+* Dauntless Class ~~24~~ **20** *(-4)*
 * Gorn Raider ~~20~~ **14** *(-6)*
+* Hirogen Warsship  ~~24~~ **18** *(-6)*
+* Maquis Raider ~~??~~ **13**  *(-7)*
+* Vidiian Battle Cruiser ~~24~~ **21** *(-3)*
