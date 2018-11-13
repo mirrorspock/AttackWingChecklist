@@ -64,7 +64,7 @@ http://memory-alpha.wikia.com/wiki/Star_Trek:_Attack_Wing
 - [x] USS Defiant – Defiant-class
 - [x] USS Enterprise – Constitution-class
 - [x] USS Enterprise – Constitution-class refit
-- [ ] **USS Enterprise-B – Excelsior-class**
+- [x] USS Enterprise-B – Excelsior-class
 - [x] USS Enterprise-E – Sovereign-class
 - [x] USS Equinox – Nova-class
 - [x] USS Excelsior – Excelsior-class
@@ -95,7 +95,7 @@ http://memory-alpha.wikia.com/wiki/Star_Trek:_Attack_Wing
 
 ## Kazon *(missing 2)*
 - [ ] Halik Raider – Raider
-- [ ] Nistrim Raider – Raider
+- [x] Nistrim Raider – Raider
 - [x] Ogla-Razik – Predator-class
 
 ## Klingon *(missing 4)*
@@ -356,7 +356,7 @@ http://memory-alpha.wikia.com/wiki/Star_Trek:_Attack_Wing
 - [x] Main Power Grid cards
 
 ## Grand Prize
-- [ ] **Temporal Cold War card pack**
+- [x] Temporal Cold War card pack
 
 # The Classic Movies *(Complete)*
 
@@ -402,7 +402,7 @@ http://memory-alpha.wikia.com/wiki/Star_Trek:_Attack_Wing
 ## April 2014 – The Tholian Web *(Missing 1 Resource, 1 Map elements )*
 - [x] Tholia One (β) – Tholian ship
 - [?] Red Alert Upgrade cards #TODO: i might have this
-- [ ] Full About maneuver templates and Reference cards, Skilled helmsman
+- [x] Full About maneuver templates and Reference cards, Skilled helmsman
 - [ ] Map element sets (tholian web)
 
 ## May 2014 – Arena *(Missing 1 Ship)*
@@ -429,9 +429,9 @@ http://memory-alpha.wikia.com/wiki/Star_Trek:_Attack_Wing
 - [x] USS Intrepid – Constitution-class
 - [x] Sabotage cards
 
-## January 2016 – The Void  *(Missing 1 Ship, 1 Resource)*
-- [ ] **IRW T'Met – D'deridex-class card pack**
-- [ ] Tactics Resource and Reference cards
+## January 2016 – The Void  *(Complete)*
+- [x] IRW T'Met – D'deridex-class card pack
+- [x] Tactics Resource and Reference cards
 
 ## February 2016 – The Doomsday Machine *(Complete)*
 - [x] USS Constellation – Constitution-class card pack

@@ -10,7 +10,6 @@ http://memory-alpha.wikia.com/wiki/Star_Trek:_Attack_Wing
 # Expansion packs *(Missing 15)*
 
 ## Federation *(missing 3)*
-- [ ] **USS Enterprise-B – Excelsior-class**
 - [ ] **USS Valiant – Defiant-class**
 
 ## Independent *(missing 1)*
@@ -18,7 +17,6 @@ http://memory-alpha.wikia.com/wiki/Star_Trek:_Attack_Wing
 
 ## Kazon *(missing 2)*
 - [ ] Halik Raider – Raider
-- [ ] Nistrim Raider – Raider
 
 ## Klingon *(missing 1)*
 - [ ] **IKS Klothos – D7-class**
@@ -77,13 +75,9 @@ http://memory-alpha.wikia.com/wiki/Star_Trek:_Attack_Wing
 - [ ] **Seleya - a Vulcan D'Kyr class ship**
 - [ ] **U.S.S. Lakota - an Excelsior class ship**
 
-## Grand Prize
-- [ ] **Temporal Cold War card pack**
-
 # Episode Organized Play Events
 
 ## April 2014 – The Tholian Web *(Missing 1 Resource, 1 Map elements )*
-- [ ] Full About maneuver templates and Reference cards, Skilled helmsman
 - [ ] Map element sets (tholian web)
 
 ## May 2014 – Arena *(Missing 1 Ship)*
@@ -94,10 +88,6 @@ http://memory-alpha.wikia.com/wiki/Star_Trek:_Attack_Wing
 
 ## Grand Prize
 - [ ] USS Enterprise-A – Constitution-class refit
-
-## January 2016 – The Void  *(Missing 1 Ship, 1 Resource)*
-- [ ] **IRW T'Met – D'deridex-class card pack**
-- [ ] Tactics Resource and Reference cards
 
 ## September 2016 – The Trouble with Tribbles *(Missing 1 Ship)*
 - [ ] Kohlar's Battle Cruiser – D7-class card pack
