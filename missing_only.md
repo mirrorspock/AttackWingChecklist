@@ -7,22 +7,20 @@ http://memory-alpha.wikia.com/wiki/Star_Trek:_Attack_Wing
 # Promo Items *(Missing 1 Captain)*
 - [ ] GenCon Khan
 
-# Expansion packs *(Missing 15)*
+# Expansion packs *(Missing 10)*
 
-## Federation *(missing 3)*
+## Federation *(missing 1)*
 - [ ] **USS Valiant – Defiant-class**
 
 ## Independent *(missing 1)*
 - [ ] **Tholia One (β) – Tholian ship (22nd century)**
 
-## Kazon *(missing 2)*
+## Kazon *(missing 1)*
 - [ ] Halik Raider – Raider
 
-## Klingon *(missing 1)*
+## Klingon *(missing 2)*
 - [ ] **IKS Klothos – D7-class**
 - [ ] **IKS Kronos One – K't'inga-class**
-
-## Mirror Universe *(complete)*
 
 ## Romulan *(missing 5)*
 - [ ] **IRW Algeron – D7-class**
@@ -34,7 +32,7 @@ http://memory-alpha.wikia.com/wiki/Star_Trek:_Attack_Wing
 # Storyline Organized Play Events
 
 
-# The Dominion War *(missing 5 ships, 1 resource, 2 extras)*
+# The Dominion War
 
 ## October 2013 – Operation Return
 - [ ] **Krayton – D'Kora-class**
