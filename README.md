@@ -28,22 +28,70 @@ http://memory-alpha.wikia.com/wiki/Star_Trek:_Attack_Wing
 
 # Faction packs *(preordered)*
 <details><summary>Click here to Expand</summary>
+
 ## Star Trek: Attack Wing - Independent Faction Pack
+- [x] TBA – B'rel-class (Ferengi commandeered)
+- [x] TBA – D'kora-class
+- [x] TBA – Ferengi shuttle
 
 ## Star Trek: Attack Wing – Dominion Faction Pack
+- [x] 2nd Division Battleship – Dominion battleship
+- [x] 2nd Wing Patrol Ship – Jem'Hadar fighter
+- [x] 3rd Division Battle Cruiser – Dominion battle cruiser
+- [x] 6th Wing Patrol Ship – Jem'Hadar fighter
 
 ## Star Trek: Attack Wing – Romulan Faction Pack
+- [x] IRW Suran – Reman warbird
+- [x] Jarok's Scout Vessel – Scout ship
+- [x] Mirok's Science Vessel – Science vessel
+- [x] PWB Tomal – D'deridex-class
 
 ## Star Trek: Attack Wing – Mirror Universe Faction Pack: The Kelvin Timeline 
+- [x] TBA – Constitution class (alternate reality)
+- [x] TBA – Klingon warbird
 
 ## Star Trek: Attack Wing – Independent Faction Pack: A Motley Fleet (2018)
+- [x] TBA – Andorian battle cruiser
+- [x] TBA – Maquis raider
+- [x] TBA – Species 116 Dauntless-class
+- [x] TBA – Vidiian warship
 
+## Star Trek: The Animated Series – July 2018 *(preordered)*
+- [ ] TBA × 4
 
+## Borg – August 2018 *(preordered)*
+- [ ] TBA – Assimilated Galaxy-class
+- [ ] TBA – Assimilated Intrepid-class
+- [ ] TBA – Scout ship
+- [ ] TBA – Sphere
+
+</details>
+
+# Card packs *(complete)*
+<details><summary>Click here to Expand</summary>
+
+## September 2017 – Wave 1 *(complete)*
+- [x] Cardassian ATR-4107 – Dreadnought
+- [x] Oberth-class – USS Grissom
+- [x] Raptor-class – IKS Ves Batlh
+- [x] Romulan drone ship – Prototype 02
+
+## January 2018 – Wave 2 *(complete)*
+- [x] Borg Octahedron (Borg Queen's vessel)
+- [x] Goss' Marauder D'kora-class
+
+## March 2018 – Wave 3 *(complete)*
+- [x] Jem'Hadar fighter
+- [x] Gorn raider
+
+## May 2018 – Wave 4 *(complete)*
+- [x] Federation Attack Fighter Squadron
+- [x] Hirogen warship
 
 </details>
 
 
-# Expansion packs *(Missing 15)*
+# Expansion packs *(Missing 10)*
 <details><summary>Click here to Expand</summary>
 
 ## Bajoran *(complete)*
@@ -169,69 +217,6 @@ http://memory-alpha.wikia.com/wiki/Star_Trek:_Attack_Wing
 
 </details>
 
-
-
-
-## Dominion – December 2017 *(preordered)*
-- [ ] 2nd Division Battleship – Dominion battleship
-- [ ] 2nd Wing Patrol Ship – Jem'Hadar fighter
-- [ ] 3rd Division Battle Cruiser – Dominion battle cruiser
-- [ ] 6th Wing Patrol Ship – Jem'Hadar fighter
-
-## Romulan – December 2017 *(preordered)*
-- [ ] IRW Suran – Reman warbird
-- [ ] Jarok's Scout Vessel – Scout ship
-- [ ] Mirok's Science Vessel – Science vessel
-- [ ] PWB Tomal – D'deridex-class
-
-## Independent Ferengi – February 2018 *(preordered)*
-- [ ] TBA – B'rel-class (Ferengi commandeered)
-- [ ] TBA – D'kora-class
-- [ ] TBA – Ferengi shuttle
-
-## Mirror Universe Kelvin Timeline – April 2018 *(preordered)*
-- [ ] TBA – Constitution class (alternate reality)
-- [ ] TBA – Klingon warbird
-
-## Independent Motley Fleet – June 2018 *(preordered)*
-- [ ] TBA – Andorian battle cruiser
-- [ ] TBA – Maquis raider
-- [ ] TBA – Species 116 Dauntless-class
-- [ ] TBA – Vidiian warship
-
-## Star Trek: The Animated Series – July 2018 *(preordered)*
-- [ ] TBA × 4
-
-## Borg – August 2018 *(preordered)*
-- [ ] TBA – Assimilated Galaxy-class
-- [ ] TBA – Assimilated Intrepid-class
-- [ ] TBA – Scout ship
-- [ ] TBA – Sphere
-
-</details>
-
-# Card packs *(complete)*
-<details><summary>Click here to Expand</summary>
-
-## September 2017 – Wave 1 *(complete)*
-- [x] Cardassian ATR-4107 – Dreadnought
-- [x] Oberth-class – USS Grissom
-- [x] Raptor-class – IKS Ves Batlh
-- [x] Romulan drone ship – Prototype 02
-
-## January 2018 – Wave 2 *(complete)*
-- [x] Borg Octahedron (Borg Queen's vessel)
-- [x] Goss' Marauder D'kora-class
-
-## March 2018 – Wave 3 *(complete)*
-- [x] Jem'Hadar fighter
-- [x] Gorn raider
-
-## May 2018 – Wave 4 *(complete)*
-- [x] Federation Attack Fighter Squadron
-- [x] Hirogen warship
-
-</details>
 
 # Storyline Organized Play Events
 
