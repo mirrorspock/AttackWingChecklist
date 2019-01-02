@@ -9,14 +9,10 @@ http://memory-alpha.wikia.com/wiki/Star_Trek:_Attack_Wing
 
 # Expansion packs *(Missing 10)*
 
-## Federation *(missing 1)*
-- [ ] **USS Valiant – Defiant-class**
+## Federation *(missing 0)*
 
 ## Independent *(missing 1)*
 - [ ] **Tholia One (β) – Tholian ship (22nd century)**
-
-## Kazon *(missing 1)*
-- [ ] Halik Raider – Raider
 
 ## Klingon *(missing 2)*
 - [ ] **IKS Klothos – D7-class**

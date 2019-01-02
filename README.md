@@ -140,7 +140,7 @@ http://memory-alpha.wikia.com/wiki/Star_Trek:_Attack_Wing
 - [x] USS Prometheus – Prometheus-class
 - [x] USS Reliant – Miranda-class
 - [x] USS Thunderchild – Akira-class
-- [ ] **USS Valiant – Defiant-class**
+- [x] USS Valiant – Defiant-class
 - [x] USS Venture – Galaxy-class
 - [x] USS Voyager – Intrepid-class
 
@@ -159,7 +159,7 @@ http://memory-alpha.wikia.com/wiki/Star_Trek:_Attack_Wing
 - [x] Val Jean – Maquis raider
 
 ## Kazon *(missing 2)*
-- [ ] Halik Raider – Raider
+- [x] Halik Raider – Raider
 - [x] Nistrim Raider – Raider
 - [x] Ogla-Razik – Predator-class
 
