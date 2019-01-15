@@ -4,10 +4,7 @@
 http://memory-alpha.wikia.com/wiki/Star_Trek:_Attack_Wing
 2018-01
 
-# Promo Items *(Missing 1 Captain)*
-- [ ] GenCon Khan
-
-# Expansion packs *(Missing 10)*
+# Expansion packs
 
 ## Federation *(missing 0)*
 
@@ -41,7 +38,6 @@ http://memory-alpha.wikia.com/wiki/Star_Trek:_Attack_Wing
 - [ ] 4 bases and 8 pegs in 4 colors
 
 ## February 2014 – The Battle of Cardassia
-- [ ] **Hideki-class Attack Squadron Resource (3-ship model), 1 Reference card, Ship card/token**
 - [ ] **Map element sets × 6 (turret tokens)**
 
 ## March 2014 – The Last Battle of Deep Space 9
