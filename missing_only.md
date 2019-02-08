@@ -67,9 +67,6 @@ http://memory-alpha.wikia.com/wiki/Star_Trek:_Attack_Wing
 
 # Episode Organized Play Events
 
-## April 2014 – The Tholian Web *(Missing 1 Resource, 1 Map elements )*
-- [ ] Map element sets (tholian web)
-
 ## May 2014 – Arena *(Missing 1 Ship)*
 - [ ] **S'Gorn – Gorn raider**
 

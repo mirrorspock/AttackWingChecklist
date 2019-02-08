@@ -401,9 +401,9 @@ http://memory-alpha.wikia.com/wiki/Star_Trek:_Attack_Wing
 
 ## April 2014 – The Tholian Web *(Missing 1 Resource, 1 Map elements )*
 - [x] Tholia One (β) – Tholian ship
-- [?] Red Alert Upgrade cards #TODO: i might have this
+- [x] Red Alert Upgrade cards #TODO: i might have this
 - [x] Full About maneuver templates and Reference cards, Skilled helmsman
-- [ ] Map element sets (tholian web)
+- [x] Map element sets (tholian web)
 
 ## May 2014 – Arena *(Missing 1 Ship)*
 - [ ] **S'Gorn – Gorn raider**
