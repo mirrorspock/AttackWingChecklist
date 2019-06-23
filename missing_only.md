@@ -8,8 +8,7 @@ http://memory-alpha.wikia.com/wiki/Star_Trek:_Attack_Wing
 
 ## Federation *(missing 0)*
 
-## Independent *(missing 1)*
-- [ ] **Tholia One (β) – Tholian ship (22nd century)**
+## Independent *(missing 0)*
 
 ## Klingon *(missing 2)*
 - [ ] **IKS Klothos – D7-class**

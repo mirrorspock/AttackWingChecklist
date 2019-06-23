@@ -154,7 +154,7 @@ http://memory-alpha.wikia.com/wiki/Star_Trek:_Attack_Wing
 - [x] Gornarus – Gorn raider
 - [x] Kumari – Andorian battle cruiser
 - [x] Kyana Prime – Krenim timeship
-- [ ] **Tholia One (β) – Tholian ship (22nd century)**
+- [x] Tholia One (β) – Tholian ship (22nd century)
 - [x] USS Dauntless – Species 116 Dauntless-class
 - [x] Val Jean – Maquis raider
 
