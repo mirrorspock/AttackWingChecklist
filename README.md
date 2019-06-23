@@ -230,7 +230,7 @@ http://memory-alpha.wikia.com/wiki/Star_Trek:_Attack_Wing
 - [x] Deep Space 9 oversized token and cards
 
 ## November 2013 – The Battle of Chin'toka
-- [ ] **IKS Ch'Tang – B'rel-class**
+- [x] IKS Ch'Tang – B'rel-class
 - [x] Map Elements 4 Turret Tokens, Planet and Debris.
 - [x] Command tokens and cards/Reference cards
 - [x] Red Shirt Crew Upgrade promo cards
@@ -247,7 +247,7 @@ http://memory-alpha.wikia.com/wiki/Star_Trek:_Attack_Wing
 
 ## February 2014 – The Battle of Cardassia
 - [x] Rav Laerst (β) – Breen warship
-- [ ] **Hideki-class Attack Squadron Resource (3-ship model), 1 Reference card, Ship card/token**
+- [x] Hideki-class Attack Squadron Resource (3-ship model), 1 Reference card, Ship card/token
 - [x] Map element sets × 6 (turret tokens)
 
 ## March 2014 – The Last Battle of Deep Space 9

@@ -29,9 +29,6 @@ http://memory-alpha.wikia.com/wiki/Star_Trek:_Attack_Wing
 ## October 2013 – Operation Return
 - [ ] **Krayton – D'Kora-class**
 
-## November 2013 – The Battle of Chin'toka
-- [ ] **IKS Ch'Tang – B'rel-class**
-
 ## December 2013 – The Siege of AR-558
 - [ ] **PWB Aj'rmr – D'deridex-class**
 - [ ] 4 bases and 8 pegs in 4 colors
