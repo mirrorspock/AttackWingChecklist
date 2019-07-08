@@ -34,13 +34,13 @@ http://memory-alpha.wikia.com/wiki/Star_Trek:_Attack_Wing
 ## Grand Prize
 - [ ] Deep Space 9 – 12-inch diameter Nor-Class space station (model)
 
-# The Collective *(missing 1 ships, 2 extras)*
+# The Collective
 
 ## August 2014 – The Battle of Wolf 359
 - [ ] **USS Raven – Aerie-class (Raven type)**
 - [?] Map element sets (card cube and debris)
 
-# Temporal Cold War *(missing 9 blind ships, 1 Card pack)*
+# Temporal Cold War
 
 ## Randomized Expansion Ships
 - [ ] **Aldara - a Cardassian Galor class ship**
@@ -55,7 +55,7 @@ http://memory-alpha.wikia.com/wiki/Star_Trek:_Attack_Wing
 
 # Episode Organized Play Events
 
-## May 2014 – Arena *(Missing 1 Ship)*
+## May 2014 – Arena
 - [ ] **S'Gorn – Gorn raider**
 
 ## June 2016 – The Voyage Home
