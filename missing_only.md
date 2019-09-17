@@ -16,10 +16,7 @@ http://memory-alpha.wikia.com/wiki/Star_Trek:_Attack_Wing
 - [ ] **IKS Kronos One – K't'inga-class**
 
 ## Romulan *(missing 5)*
-- [ ] **IRW Algeron – D7-class**
 - [ ] **IRW Devoras – D'deridex-class**
-- [ ] **IRW Jazkal – Bird-of-Prey (22nd century)**
-- [ ] **RIS Pi – Scout ship**
 - [ ] **RIS Talvath – Science vessel**
 
 # Storyline Organized Play Events

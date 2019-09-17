@@ -186,16 +186,16 @@ http://memory-alpha.wikia.com/wiki/Star_Trek:_Attack_Wing
 
 ## Romulan *(missing 5)*
 - [x] Gal Gath'thong (β) – Bird-of-Prey (23rd century)
-- [ ] **IRW Algeron – D7-class**
+- [x] IRW Algeron – D7-class
 - [ ] **IRW Devoras – D'deridex-class**
 - [x] IRW Haakona – D'deridex-class
-- [ ] **IRW Jazkal – Bird-of-Prey (22nd century)**
+- [x] IRW Jazkal – Bird-of-Prey (22nd century)
 - [x] IRW Praetus – Bird-of-Prey (22nd century)
 - [x] IRW Valdore – Valdore-type
 - [x] IRW Vrax – Valdore-type
 - [x] Prototype 01 – Drone-ship**
 - [x] RIS Apnex (β) – Science vessel
-- [ ] **RIS Pi – Scout ship**
+- [x] RIS Pi – Scout ship
 - [ ] **RIS Talvath – Science vessel**
 - [x] RIS Vo (β) – Scout ship
 - [x] Scimitar – Reman warbird
