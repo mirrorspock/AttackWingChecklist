@@ -6,11 +6,6 @@ http://memory-alpha.wikia.com/wiki/Star_Trek:_Attack_Wing
 
 # Expansion packs
 
-## Federation *(missing 0)*
-
-## Independent *(missing 1)*
-- [ ] **Tholia One (β) – Tholian ship (22nd century)**
-
 ## Klingon *(missing 2)*
 - [ ] **IKS Klothos – D7-class**
 - [ ] **IKS Kronos One – K't'inga-class**
@@ -21,7 +16,6 @@ http://memory-alpha.wikia.com/wiki/Star_Trek:_Attack_Wing
 
 # Storyline Organized Play Events
 
-
 # The Dominion War
 
 ## October 2013 – Operation Return
@@ -29,10 +23,7 @@ http://memory-alpha.wikia.com/wiki/Star_Trek:_Attack_Wing
 
 ## December 2013 – The Siege of AR-558
 - [ ] **PWB Aj'rmr – D'deridex-class**
-- [ ] 4 bases and 8 pegs in 4 colors
-
-## February 2014 – The Battle of Cardassia
-- [ ] **Map element sets × 6 (turret tokens)**
+- [?] 4 bases and 8 pegs in 4 colors
 
 ## March 2014 – The Last Battle of Deep Space 9
 - [ ] **Akorem – Bajoran scoutship**
@@ -40,13 +31,13 @@ http://memory-alpha.wikia.com/wiki/Star_Trek:_Attack_Wing
 ## Grand Prize
 - [ ] Deep Space 9 – 12-inch diameter Nor-Class space station (model)
 
-# The Collective *(missing 1 ships, 2 extras)*
+# The Collective
 
 ## August 2014 – The Battle of Wolf 359
 - [ ] **USS Raven – Aerie-class (Raven type)**
-- [ ] Map element sets (card cube and debris)
+- [?] Map element sets (card cube and debris)
 
-# Temporal Cold War *(missing 9 blind ships, 1 Card pack)*
+# Temporal Cold War
 
 ## Randomized Expansion Ships
 - [ ] **Aldara - a Cardassian Galor class ship**
@@ -61,7 +52,7 @@ http://memory-alpha.wikia.com/wiki/Star_Trek:_Attack_Wing
 
 # Episode Organized Play Events
 
-## May 2014 – Arena *(Missing 1 Ship)*
+## May 2014 – Arena
 - [ ] **S'Gorn – Gorn raider**
 
 ## June 2016 – The Voyage Home
