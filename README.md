@@ -57,13 +57,13 @@ http://memory-alpha.wikia.com/wiki/Star_Trek:_Attack_Wing
 - [x] TBA – Vidiian warship
 
 ## Star Trek: The Animated Series – July 2018 *(preordered)*
-- [ ] TBA × 4
+- [x] TBA × 4
 
 ## Borg – August 2018 *(preordered)*
-- [ ] TBA – Assimilated Galaxy-class
-- [ ] TBA – Assimilated Intrepid-class
-- [ ] TBA – Scout ship
-- [ ] TBA – Sphere
+- [x] TBA – Assimilated Galaxy-class
+- [x] TBA – Assimilated Intrepid-class
+- [x] TBA – Scout ship
+- [x] TBA – Sphere
 
 </details>
 
@@ -196,7 +196,7 @@ http://memory-alpha.wikia.com/wiki/Star_Trek:_Attack_Wing
 - [x] Prototype 01 – Drone-ship**
 - [x] RIS Apnex (β) – Science vessel
 - [x] RIS Pi – Scout ship
-- [ ] **RIS Talvath – Science vessel**
+- [x] RIS Talvath – Science vessel
 - [x] RIS Vo (β) – Scout ship
 - [x] Scimitar – Reman warbird
 - [x] Scorpion 4 – Scorpion-class Attack Fighter Squadron
