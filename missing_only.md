@@ -12,7 +12,6 @@ http://memory-alpha.wikia.com/wiki/Star_Trek:_Attack_Wing
 
 ## Romulan *(missing 5)*
 - [ ] **IRW Devoras – D'deridex-class**
-- [ ] **RIS Talvath – Science vessel**
 
 # Storyline Organized Play Events
 
