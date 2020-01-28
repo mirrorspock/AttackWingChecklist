@@ -236,7 +236,7 @@ http://memory-alpha.wikia.com/wiki/Star_Trek:_Attack_Wing
 - [x] Red Shirt Crew Upgrade promo cards
 
 ## December 2013 – The Siege of AR-558
-- [ ] **PWB Aj'rmr – D'deridex-class**
+- [x] PWB Aj'rmr – D'deridex-class
 - [x] Reinforcements sideboards/Reference cards
 - [ ] 4 bases and 8 pegs in 4 colors
 

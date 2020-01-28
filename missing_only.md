@@ -20,7 +20,6 @@ http://memory-alpha.wikia.com/wiki/Star_Trek:_Attack_Wing
 - [ ] **Krayton – D'Kora-class**
 
 ## December 2013 – The Siege of AR-558
-- [ ] **PWB Aj'rmr – D'deridex-class**
 - [?] 4 bases and 8 pegs in 4 colors
 
 ## March 2014 – The Last Battle of Deep Space 9
