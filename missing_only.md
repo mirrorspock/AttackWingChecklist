@@ -7,7 +7,6 @@ http://memory-alpha.wikia.com/wiki/Star_Trek:_Attack_Wing
 # Expansion packs
 
 ## Klingon *(missing 2)*
-- [ ] **IKS Klothos – D7-class**
 - [ ] **IKS Kronos One – K't'inga-class**
 
 ## Romulan *(missing 5)*
