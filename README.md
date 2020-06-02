@@ -369,7 +369,7 @@ http://memory-alpha.wikia.com/wiki/Star_Trek:_Attack_Wing
 - [x] Emergency Power cards
 
 ## June 2016 – The Voyage Home
-- [ ] HMS Bounty – B'rel-class card pack
+- [x] HMS Bounty – B'rel-class card pack
 - [x] Improved Hull cards
 
 ## Grand Prize

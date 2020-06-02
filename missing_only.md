@@ -52,9 +52,6 @@ http://memory-alpha.wikia.com/wiki/Star_Trek:_Attack_Wing
 ## May 2014 – Arena
 - [ ] **S'Gorn – Gorn raider**
 
-## June 2016 – The Voyage Home
-- [ ] HMS Bounty – B'rel-class card pack
-
 ## Grand Prize
 - [ ] USS Enterprise-A – Constitution-class refit
 
